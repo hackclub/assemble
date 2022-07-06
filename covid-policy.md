@@ -6,11 +6,11 @@ _This document is a work-in-progress draft. Please don't quote this as an offici
 
 ### Vaccination Requirements
 
-All attendees will be required to submit proof of full vaccination including additional boosters that may become available and recommended August.
+All attendees will be required to submit proof of full vaccination including additional boosters that may become available and recommended before August.
 
 ### Covid Test Documentation
 
-We require attendees produce the results of a **negative** antigen test.
+We require attendees produce the results of a negative antigen test within 24 hours of the event.
 
 If an attendee is not vaccinated (in the case of a medical excemption), they must produce the results of a negative PCR test within 24 hours of the event.
 
@@ -20,6 +20,25 @@ Rapid tests will be provided in the open for anyone to use. Masks will be availa
 
 If an attendee begins to show symptoms and/or has a positive test, Assemble organizers will provide a space to isolate and rest.
 
-### 
+If an attendee has to isolate, we will send a notification email to attendees with exposure details.
 
 ## After the Hackathon
+
+### Reporting post-event positive-tests
+
+If an attendee or organizer has a positive test within 10 days of the event, they should report the possible exposure to [self-report link].
+
+To ensure attendees and organizers remember to self-report after the event, a scheduled email will be sent with the [self-report link].
+
+[self-report link]: PLACEHOLDER_REPORT_LINK
+
+---
+
+_TODO: This section should probably be removed before the final published version_
+
+References:
+
+- https://railsconf.com/covid
+- https://sf.gov/operate-your-business-during-coronavirus-pandemic
+- https://hackcon.mlh.io/covid
+- https://news.mlh.io/mlh-recommendations-for-covid-19-03-03-2020
