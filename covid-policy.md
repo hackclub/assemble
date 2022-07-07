@@ -12,13 +12,13 @@ Policy and implementation is handled by the **Covid working group**. If you have
 
 ### Vaccination Requirements
 
-All attendees will be required to submit proof of full vaccination including additional boosters that may become available and recommended before August.
+All attendees will be required to submit proof of full vaccination including additional boosters that may become available and recommended before August. Attendees may be asked to show proof at a pre-event check-in and at the entrance of the venue, so **attendees should bring their proof of vaccination**.
 
 ### Covid Test Documentation
 
 We require attendees produce the results of a negative antigen test within 24 hours of the event.
 
-If an attendee is not vaccinated (in the case of a medical excemption), they must produce the results of a negative PCR test within 24 hours of the event.
+If an attendee is not vaccinated (in the case of a medical excemption), they must produce the results of a **negative PCR test** within 24 hours of the event.
 
 ## At the Hackathon
 
