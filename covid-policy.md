@@ -22,7 +22,15 @@ If an attendee is not vaccinated (in the case of a medical excemption), they mus
 
 ## At the Hackathon
 
-Rapid tests will be provided in the open for anyone to use. Masks will be available for anyone who wishes to wear one and hand sanitizer will be located throughout the venue.
+### Resources
+
+Rapid tests will be provided in the open for anyone to use and hand sanitizer will be located throughout the venue.
+
+Masks are not required at the venue, but will be available for anyone who wishes to wear one.
+
+The venue will have signs posted with directions to testing and steps on how to self-report a positive test using the [self-report link].
+
+### Response
 
 If an attendee begins to show symptoms and/or has a positive test, Assemble organizers will provide a space to isolate and rest.
 
