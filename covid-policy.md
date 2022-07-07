@@ -1,6 +1,12 @@
 # COVID policy
 
-_This document is a work-in-progress draft. Please don't quote this as an official document until this message is removed._
+> _:information_source: This document is a work-in-progress draft. Please don't quote this as an official document until this message is removed._
+
+Policy and implementation is handled by the **Covid working group**. If you have any questions, or need to contact someone about this policy, please reach out to them.
+
+| name        | github      | email            |
+| ----------- | ----------- | ---------------- |
+| max wofford | @maxwofford | max@hackclub.com |
 
 ## Before the Hackathon
 
