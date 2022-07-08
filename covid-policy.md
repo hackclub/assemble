@@ -23,6 +23,10 @@ We require all attendees & organizers produce the results of a negative antigen 
 <!-- @msw: Ah, hello there! you're reading the raw markdown, aren't you? I'm commenting this out because we don't have any applicants at the time of writing with a medical excemption & I'd like to keep the wording concise (why cover an edgecase we don't have). If it comes up we can uncomment the following line: -->
 <!-- If an attendee is not vaccinated (in the case of a medical excemption), they must produce the results of a **negative PCR test** within 24 hours of the event. -->
 
+### Travel Stipends
+
+Recipients of travel stipends flying in to attend will need to take their tests before boarding their plane.
+
 ## At the Hackathon
 
 ### Resources
