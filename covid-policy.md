@@ -4,11 +4,11 @@
 
 Policy and implementation is handled by the **Covid working group**. If you have any questions, or need to contact someone about this policy, please reach out to them.
 
-| name        | github      | email             |
-| ----------- | ----------- | ----------------- |
-| max wofford | @maxwofford | max@hackclub.com  |
-| sam poder   | @sampoder   | sam@hackclub.com  |
-| charlie welsh     | @tetraoxygen   | charlie@summer.hackclub.com |
+| name          | github       | email                       |
+| ------------- | ------------ | --------------------------- |
+| max wofford   | @maxwofford  | max@hackclub.com            |
+| sam poder     | @sampoder    | sam@hackclub.com            |
+| charlie welsh | @tetraoxygen | charlie@summer.hackclub.com |
 
 ## Before the Hackathon
 
