@@ -58,3 +58,4 @@ References:
 - https://sf.gov/operate-your-business-during-coronavirus-pandemic
 - https://hackcon.mlh.io/covid
 - https://news.mlh.io/mlh-recommendations-for-covid-19-03-03-2020
+- https://www.dnalounge.com/backstage/log/2022/04/19.html
