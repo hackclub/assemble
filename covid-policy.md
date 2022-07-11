@@ -1,5 +1,16 @@
 # COVID documentation
 
+- [COVID documentation](#covid-documentation)
+  - [Before the Hackathon](#before-the-hackathon)
+    - [Vaccination Requirements](#vaccination-requirements)
+    - [Covid Test Documentation](#covid-test-documentation)
+    - [Travel Stipends](#travel-stipends)
+  - [At the Hackathon](#at-the-hackathon)
+    - [Resources](#resources)
+    - [Self-report Response](#self-report-response)
+  - [After the Hackathon](#after-the-hackathon)
+    - [Reporting post-event positive-tests](#reporting-post-event-positive-tests)
+
 > _:information_source: This document is a work-in-progress draft. Please don't quote this as an official document until this message is removed._
 
 Documentation and implementation is handled by the **Covid working group**. If you have any questions, or need to contact someone about these docs, please reach out to them.
@@ -37,7 +48,7 @@ Masks are not required at the venue, but will be available for anyone who wishes
 
 The venue will have signs posted with directions to testing and steps on how to self-report a positive test using the [self-report link].
 
-### Response
+### Self-report Response
 
 If an attendee or organizer begins to show symptoms and/or has a positive test, they must isolate and leave the event. They are responsible for coordinating housing.
 
