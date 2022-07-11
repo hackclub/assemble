@@ -39,9 +39,9 @@ The venue will have signs posted with directions to testing and steps on how to 
 
 ### Response
 
-If an attendee begins to show symptoms and/or has a positive test, Assemble organizers will provide a space to isolate and rest.
+If an attendee or organizer begins to show symptoms and/or has a positive test, they must isolate and leave the event. They are responsible for coordinating housing.
 
-If an attendee has to isolate, we will send a notification email to attendees with exposure details.
+We will send a notification email to attendees with exposure details if there is a positive test.
 
 ## After the Hackathon
 
