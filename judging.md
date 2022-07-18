@@ -57,6 +57,8 @@ There is no 1st, 2nd, 3rd. Categories are based on reactions:
 
 Some prizes can be related to categories. Most cumulative hand emojis (:clap: :raised_hands: :+1: :ok:) gets a bag of [tiny plastic hands](https://www.amazon.com/s?k=100+tiny+plastic+hands&crid=3HKG2H61AN8TP&sprefix=100+tiny+plastic+hands%2Caps%2C130&ref=nb_sb_noss) for each member of the winning team.
 
+Depending on the [theme](theme.md), some emojis can correspond to specific parts of the theme.
+
 ### Speed dating
 
 _TODO_
