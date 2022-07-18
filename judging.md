@@ -71,8 +71,6 @@ Assuming there are 50 projects and 2 minutes to demo, the whole process would ta
 
 ### Tier-list voting w/ speed-dating assignment
 
-This proposal is similar to the one above, but instead of voting on scrapbook, everyone places projects on a [tier list](https://www.computerhope.com/jargon/t/tier-list.png).
+This proposal is similar to the one above, but instead of voting on scrapbook, everyone places projects on a [tier list](https://www.computerhope.com/jargon/t/tier-list.png). There can be categorized tier lists: a "Creativity" list, a "Sillyness / Hackiness" list, etc.
 
-There can be categorized tier lists: a "Creativity" list, a "Sillyness / Hackiness" list, etc.
-
-At the end, a website shows the top performers in each tier list category and also overall.
+Since this proposal does not use scrapbook, at the end, a website shows the top performers in each tier list category and also overall.
