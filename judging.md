@@ -40,13 +40,13 @@ Winners are announced at closing ceremonies. There is no 1st, 2nd, 3rd. We'd las
 
 Judges also have discression to create a category on the fly & we'd have someone standing-by at a local makerspace ready to laser cut the name for a new trophy.
 
-### Scrapbook presentation with #ship-style voting
+### Scrapbook voting w/ science fair period
 
 The event's network hosts hackbook.local (proposal URL, not live), a locally hosted fork of [Scrapbook](https://scrapbook.hackclub.com). Hackers can sign in and post their projects. Scraps ("posts" on Scrapbook) can have multiple co-signers (ie. "Posted by Alice & Bob"), and flagged as "shipped".
 
-During the hackathon, posting a "shipped" scrap will print a physical copy of the ship on a laser-cutter.
+During the hackathon, posting a "shipped" scrap will print a physical copy of the ship on a laser-cutter that has NFC/RFID/QR that links to the scrapbook post.
 
-At the end, we'll announce a "demo period" where hackers can go around and see each other's projects. After going to a project table and hearing a demo, attendees can scan the physical scrapbook card for that ship (nfc, qr, etc.) and vote by reacting to the "shipped" scrap. _(we could make this part more formal by using speed dating presentation)_
+At the end, we'll announce a "demo period" where hackers can go around and see each other's projects. After going to a project table and hearing a demo, attendees can scan the physical scrapbook card for that ship and vote by reacting to the "shipped" scrap.
 
 There is no 1st, 2nd, 3rd. Categories are based on reactions:
 
@@ -59,10 +59,20 @@ Some prizes can be related to categories. Most cumulative hand emojis (:clap: :r
 
 Depending on the [theme](theme.md), some emojis can correspond to specific parts of the theme.
 
-### Speed dating presentation with tier-list voting
+### Scrapbook voting w/ speed-dating assignment
 
-Teams face each other in two rows (randomly assigned), and one side demos their projects. Each demo takes a set number of minutes (two, perhaps), after which the other team places them on a [7-tier-list](https://www.computerhope.com/jargon/t/tier-list.png), and then the demo-ing row rotates so they can face the next team. Once a full rotation is complete, the other side is shuffled (so people don't demo to the same team they got a demo from) and then demos their projects the same way.
+This proposal is similar to the earlier one in that posts are made on scrapbook, that a physical tag is printed, and that people vote using emoji reactions. However, instead of having a demo-period in which people are free to move around, in this proposal, demo-ing is more formal:
+
+Teams would face each other in two rows (with each team randomly assigned to one of the two), and one side demos their projects. Each demo takes a set number of minutes (two, perhaps), after which the other team scans the physical card and reacts with emojis on the scrapbook post. Now, the demo-ing row rotates so they can face the next team to give a demo. 
+
+Once a full rotation is complete (one row has presented their projects to everyone on the other row), the other side is shuffled so people don't demo to the same teams they got a demo from. Now, the other side demos their projects the same way.
+
+Assuming there are 50 projects and 2 minutes to demo, the whole process would take 25\*2\*2 minutes = 100 minutes.
+
+### Tier-list voting w/ speed-dating assignment
+
+This proposal is similar to the one above, but instead of voting on scrapbook, everyone places projects on a [tier list]https://www.computerhope.com/jargon/t/tier-list.png).
 
 There can be categorized tier lists: a "Creativity" list, a "Sillyness / Hackiness" list, etc.
 
-At the end, a website shows the top performers in each category and also overall.
+At the end, a website shows the top performers in each tier list category and also overall.
