@@ -6,9 +6,9 @@ _or, "what is the end-goal of the event"_
   - [Intent](#intent)
   - [Proposals](#proposals)
     - [Hackathon judges](#hackathon-judges)
-    - [Scrapbook voting](#scrapbook-voting)
-    - [Speed dating](#speed-dating)
-    - [Tier-list](#tier-list)
+    - [Scrapbook voting w/ science fair period](#scrapbook-voting-w-science-fair-period)
+    - [Scrapbook voting w/ speed-dating assignment](#scrapbook-voting-w-speed-dating-assignment)
+    - [Tier-list voting w/ speed-dating assignment](#tier-list-voting-w-speed-dating-assignment)
 
 > _:information_source: This document is a work-in-progress draft. Please don't quote this as an official document until this message is removed._
 
