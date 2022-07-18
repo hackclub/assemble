@@ -38,7 +38,7 @@ Winners are announced at closing ceremonies. There is no 1st, 2nd, 3rd. We'd las
 - outstandingly hacky
 - the biggest fish (random one open to interpretation)
 
-Judges also have discression to create a category on the fly & we'd have someone standing-by at a local makerspace ready to laser cut the name for a new trophy.
+Judges also have discretion to create a category on the fly & we'd have someone standing-by at a local makerspace ready to laser cut the name for a new trophy.
 
 ### Scrapbook voting w/ science fair period
 
@@ -53,7 +53,7 @@ There is no 1st, 2nd, 3rd. Categories are based on reactions:
 - Most upvotes
 - Best design (most :art: emojis)
 - Mixtape award (most :fire: emojis)
-- Most banana emojis (random categories created at organizer discression)
+- Most banana emojis (random categories created at organizer discretion)
 
 Some prizes can be related to categories. Most cumulative hand emojis (:clap: :raised_hands: :+1: :ok:) gets a bag of [tiny plastic hands](https://www.amazon.com/s?k=100+tiny+plastic+hands&crid=3HKG2H61AN8TP&sprefix=100+tiny+plastic+hands%2Caps%2C130&ref=nb_sb_noss) for each member of the winning team.
 
