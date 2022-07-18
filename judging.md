@@ -27,7 +27,7 @@ Ask any hackathon attendee about judging & they can bring up a negative experien
 
 ### Hackathon judges
 
-This is a base case. Normal hackathon-style judging with science faire desks & project numbers. During a judging period, judges go out to each table and review a demo. Each judge should be a field expert (technical, design, etc.) so they can understand what they're reviewing.
+This is a base case. Normal hackathon-style judging with science fair desks & project numbers. During a judging period, judges go out to each table and review a demo. Each judge should be a field expert (technical, design, etc.) so they can understand what they're reviewing.
 
 At the end of the demo time, judges get back together and compare rubrics.
 
@@ -40,7 +40,7 @@ Winners are announced at closing ceremonies. There is no 1st, 2nd, 3rd. We'd las
 
 Judges also have discression to create a category on the fly & we'd have someone standing-by at a local makerspace ready to laser cut the name for a new trophy.
 
-### Scrapbook voting
+### Scrapbook presentation with Reddit-style voting
 
 The event's network hosts hackbook.local (proposal URL, not live), a locally hosted fork of [Scrapbook](https://scrapbook.hackclub.com). Hackers can sign in and post their projects. Scraps ("posts" on Scrapbook) can have multiple co-signers (ie. "Posted by Alice & Bob"), and flagged as "shipped".
 
@@ -59,10 +59,10 @@ Some prizes can be related to categories. Most cumulative hand emojis (:clap: :r
 
 Depending on the [theme](theme.md), some emojis can correspond to specific parts of the theme.
 
-### Speed dating
+### Speed dating presentation with tier-list voting
 
-_TODO_
+Teams face each other in two rows (randomly assigned), and one side demos their projects. Each demo takes a set number of minutes (two, perhaps), after which the other team places them on a 7-tier-list, and then the demo-ing row rotates so they can face the next team. Once a full rotation is complete, the other side is shuffled (so people don't demo to the same team they got a demo from) and then demos their projects the same way.
 
-### Tier-list
+There can be categorized tier lists: a "Creativity" list, a "Sillyness / Hackiness" list, etc.
 
-_TODO_
+At the end, a website shows the top performers in each category and also overall.
