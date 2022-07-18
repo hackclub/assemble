@@ -40,7 +40,7 @@ Winners are announced at closing ceremonies. There is no 1st, 2nd, 3rd. We'd las
 
 Judges also have discression to create a category on the fly & we'd have someone standing-by at a local makerspace ready to laser cut the name for a new trophy.
 
-### Scrapbook presentation with Reddit-style voting
+### Scrapbook presentation with #ship-style voting
 
 The event's network hosts hackbook.local (proposal URL, not live), a locally hosted fork of [Scrapbook](https://scrapbook.hackclub.com). Hackers can sign in and post their projects. Scraps ("posts" on Scrapbook) can have multiple co-signers (ie. "Posted by Alice & Bob"), and flagged as "shipped".
 
