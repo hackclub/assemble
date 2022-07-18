@@ -61,7 +61,7 @@ Depending on the [theme](theme.md), some emojis can correspond to specific parts
 
 ### Speed dating presentation with tier-list voting
 
-Teams face each other in two rows (randomly assigned), and one side demos their projects. Each demo takes a set number of minutes (two, perhaps), after which the other team places them on a 7-tier-list, and then the demo-ing row rotates so they can face the next team. Once a full rotation is complete, the other side is shuffled (so people don't demo to the same team they got a demo from) and then demos their projects the same way.
+Teams face each other in two rows (randomly assigned), and one side demos their projects. Each demo takes a set number of minutes (two, perhaps), after which the other team places them on a [7-tier-list](https://www.computerhope.com/jargon/t/tier-list.png), and then the demo-ing row rotates so they can face the next team. Once a full rotation is complete, the other side is shuffled (so people don't demo to the same team they got a demo from) and then demos their projects the same way.
 
 There can be categorized tier lists: a "Creativity" list, a "Sillyness / Hackiness" list, etc.
 
