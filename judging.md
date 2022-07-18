@@ -46,7 +46,7 @@ The event's network hosts hackbook.local (proposal URL, not live), a locally hos
 
 During the hackathon, posting a "shipped" scrap will print a physical copy of the ship on a laser-cutter.
 
-At the end, we'll announce a "demo period" where hackers can go around and see each other's projects. After going to a project table and hearing a demo, attendees can scan the physical scrapbook card for that ship (nfc, qr, etc.) and vote by reacting to the "shipped" scrap.
+At the end, we'll announce a "demo period" where hackers can go around and see each other's projects. After going to a project table and hearing a demo, attendees can scan the physical scrapbook card for that ship (nfc, qr, etc.) and vote by reacting to the "shipped" scrap. _(we could make this part more formal by using speed dating presentation)_
 
 There is no 1st, 2nd, 3rd. Categories are based on reactions:
 
