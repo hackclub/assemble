@@ -14,6 +14,8 @@ _or, "what is the end-goal of the event"_
 
 > _:information_source: This document contains multiple proposals requesting comments and reviews. Please post in #assemble-bts with feedback._
 
+Judging subteam: Ishan, Ian, Max
+
 ## Intent
 
 Ask any hackathon attendee about judging & they can bring up a negative experience they've had or heard about. That said, judging provides important things to the event such as...
