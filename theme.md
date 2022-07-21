@@ -56,13 +56,46 @@ Attendees are assigned random themes. Methods of distributing the theme include.
 
 ### Kahoot
 
-During the opening ceremonies, attendees are directed to take out their phones & go to https://assemble.hackclub.com/theme (proposal URL, not live). The link redirects them to a pre-populated kahoot with 4 questions. Each question has 4 words, and the whole event comes up with a theme together. The words wouldn't form a whole sentence– they'd more be fragments of a theme that need to be worked into a project. Example fragments:
+At the end of the opening ceremony, attendees are directed to take out their phones and go to https://assemble.hackclub.com/theme (proposal URL, not live). The website is a site with 4 questions, which attendees can vote on to select a theme (like Kahoot). Each question has 3 words or fragments, and the whole event comes up with a theme together, possibly with options such that they always form a sentence. (we could also 4 choices per question, but Ishan worries that could be too many options for someone to be sure of their choice). 
 
-- games
-- built for yourself
+Like in Kahoot, voters immediately find out which option was picked the most. Unlike in Kahoot, voters will be able to decide what options are presented. Since this question will then have a lot of choices, a live-updating list sorted by votes should be implemented.
+
+After they've made the choices, the website shows the top theme made of the words most picked. We can also include the 2nd and 3rd best choices so people aren't stuck if the top choice ends up being super unworkable. (we can go through all 81/256 possible themes to see if there are any like this)
+
+This kind of theme system would naturally close the opening ceremony, and leave everyone with creative energy and a conversation topic for dinner time: _"Hey, what'd you pick for the adverb?"_
+
+Example choices:
+
+Adverbs:
+
+- dangerously
+- unequally
+- woozyily
+- biblically accurately
+
+Verbs:
+
+- betting
+- merging
+- hunting
+- weakening
+
+Adjectives:
+
+- illegal
+- raspy
+- fluffy
+- nutritious
+
+Nouns: (These are to be chosen by the attendees)
+
+- department
 - prophet / profit
 - potato
 - zero
-- [you only have one](https://web.archive.org/web/*/http://ludumdare.com/compo/ludum-dare-28/)
-- biblically accurate
+
+_who doesn't want a theme like **"woozily hunting raspy prophet"**?_
+
+Examples of similar ideas:
 - [that's a stupid idea](https://stupidhackathon.com/)
+- [you only have one](https://web.archive.org/web/*/http://ludumdare.com/compo/ludum-dare-28/)
