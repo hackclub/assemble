@@ -4,11 +4,11 @@ _or, "what is the end-goal of the event"_
 
 - [Judging process](#judging-process)
   - [Intent](#intent)
-  - [Proposals](#proposals)
-    - [Hackathon judges](#hackathon-judges)
-    - [Scrapbook voting w/ science fair period](#scrapbook-voting-w-science-fair-period)
-    - [Scrapbook voting w/ speed-dating assignment](#scrapbook-voting-w-speed-dating-assignment)
-    - [Tier-list voting w/ speed-dating assignment](#tier-list-voting-w-speed-dating-assignment)
+  - [Proposal](#proposal)
+    - [Demo cards](#demo-cards)
+    - [Voting](#voting)
+    - [Scrapbook](#scrapbook)
+    - [After judging / after event](#after-judging--after-event)
 
 > _:information_source: This document is a work-in-progress draft. Please don't quote this as an official document until this message is removed._
 
@@ -25,54 +25,44 @@ Ask any hackathon attendee about judging & they can bring up a negative experien
 - closure to a long, hard sprint
 - a structure for first-time hackathon goers
 
-## Proposals
+## Proposal
 
-### Hackathon judges
+We’ll have a science fair “demo period” at the end of the event for 2 hours.
+Before this period, hackers will have posted their projects on scrapbook & picked up their “demo cards” for their shipped projects.
 
-This is a base case. Normal hackathon-style judging with science fair desks & project numbers. During a judging period, judges go out to each table and review a demo. Each judge should be a field expert (technical, design, etc.) so they can understand what they're reviewing.
+Hackers will go around and see other projects & when they want to vote they’ll scan the demo card for that project.
 
-At the end of the demo time, judges get back together and compare rubrics.
+Starting a little before the 2 hour period ends (~15 min), judges will convene to discuss which prizes to give out.
 
-Winners are announced at closing ceremonies. There is no 1st, 2nd, 3rd. We'd laser-cut a couple trophy/plaques in advance with categories like...
+Some will be pre-defined:
+- Most upvoted (1st, 2nd, 3rd)
+- Best game
+- Best beginner
+Some will be judge’s choice:
+- Most hacky/janky/wack
+- Most cursed
 
-- outstandingly polished
-- most technically advanced
-- outstandingly hacky
-- the biggest fish (random one open to interpretation)
+Categories that are chosen by judges should mostly follow the emojis. Judges can choose from a set of plaques we create before the event. Some plaques will have random symbols/logos to give judges flexibility to come up with their own projects. We’ll throw away the unused plaques.
 
-Judges also have discretion to create a category on the fly & we'd have someone standing-by at a local makerspace ready to laser cut the name for a new trophy.
+### Demo cards
 
-### Scrapbook voting w/ science fair period
+_Working title_
+Has a QR code to a specific scrapbook post. Attendees can pick them up throughout the event after posting a scrap. Should be customized (include scrapbook image + description ideally) so attendees want to take them home. If we have the time we can get nice laser cut plaques that the printed cards go onto.
 
-The event's network hosts hackbook.local (proposal URL, not live), a locally hosted fork of [Scrapbook](https://scrapbook.hackclub.com). Hackers can sign in and post their projects. Scraps ("posts" on Scrapbook) can have multiple co-signers (ie. "Posted by Alice & Bob"), and flagged as "shipped".
+### Voting
 
-During the hackathon, posting a "shipped" scrap will print a physical copy of the ship on a laser-cutter that has NFC/RFID/QR that links to the scrapbook post.
+Attendees vote for each other’s projects by scanning their demo cards & being taken to a page on scrapbook for voting. Voting is not started on scrapbook (like scrolling through an index of projects). My votes are anonymous (like the website for scrapbook), but scraps show the total counts for each. The project index lets me sort by reactions, but not see reaction count.
 
-At the end, we'll announce a "demo period" where hackers can go around and see each other's projects. After going to a project table and hearing a demo, attendees can scan the physical scrapbook card for that ship and vote by reacting to the "shipped" scrap.
+### Scrapbook
 
-There is no 1st, 2nd, 3rd. Categories are based on reactions:
+We’ll need to add individual pages for each scrap, and make a new type of scrap- the “ship”. Ships will need to have co-authors & a “project name” field.
 
-- Most upvotes
-- Best design (most :art: emojis)
-- Mixtape award (most :fire: emojis)
-- Most banana emojis (random categories created at organizer discretion)
+Other nice-to-haves for admins:
+- A way to see an index of projects sorted by reaction counts
 
-Some prizes can be related to categories. Most cumulative hand emojis (:clap: :raised_hands: :+1: :ok:) gets a bag of [tiny plastic hands](https://www.amazon.com/s?k=100+tiny+plastic+hands&crid=3HKG2H61AN8TP&sprefix=100+tiny+plastic+hands%2Caps%2C130&ref=nb_sb_noss) for each member of the winning team.
+### After judging / after event
 
-Depending on the [theme](theme.md), some emojis can correspond to specific parts of the theme.
-
-### Scrapbook voting w/ speed-dating assignment
-
-This proposal is similar to the earlier one in that posts are made on scrapbook, that a physical tag is printed, and that people vote using emoji reactions. However, instead of having a demo-period in which people are free to move around, in this proposal, demo-ing is more formal:
-
-Teams would face each other in two rows (with each team randomly assigned to one of the two), and one side demos their projects. Each demo takes a set number of minutes (two, perhaps), after which the other team scans the physical card and reacts with emojis on the scrapbook post. Now, the demo-ing row rotates so they can face the next team to give a demo. 
-
-Once a full rotation is complete (one row has presented their projects to everyone on the other row), the other side is shuffled so people don't demo to the same teams they got a demo from. Now, the other side demos their projects the same way.
-
-Assuming there are 50 projects and 2 minutes to demo, the whole process would take 25\*2\*2 minutes = 100 minutes.
-
-### Tier-list voting w/ speed-dating assignment
-
-This proposal is similar to the one above, but instead of voting on scrapbook, everyone places projects on a [tier list](https://www.computerhope.com/jargon/t/tier-list.png). There can be categorized tier lists: a "Creativity" list, a "Sillyness / Hackiness" list, etc.
-
-Since this proposal does not use scrapbook, at the end, a website shows the top performers in each tier list category and also overall.
+A couple things need to change/happen on scrapbook after judging goes out:
+- Emoji counts on index pages show up
+- Move from scrapbook.local to scrapbook.assemble.hackclub.com (both example URLs)
+- Migrate posts from assemble scrapbook to main scrapbook.hackclub.com.
