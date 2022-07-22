@@ -35,10 +35,13 @@ Hackers will go around and see other projects & when they want to vote they’ll
 Starting a little before the 2 hour period ends (~15 min), judges will convene to discuss which prizes to give out.
 
 Some will be pre-defined:
+
 - Most upvoted (1st, 2nd, 3rd)
 - Best game
 - Best beginner
+
 Some will be judge’s choice:
+
 - Most hacky/janky/wack
 - Most cursed
 
@@ -47,6 +50,7 @@ Categories that are chosen by judges should mostly follow the emojis. Judges can
 ### Demo cards
 
 _Working title_
+
 Has a QR code to a specific scrapbook post. Attendees can pick them up throughout the event after posting a scrap. Should be customized (include scrapbook image + description ideally) so attendees want to take them home. If we have the time we can get nice laser cut plaques that the printed cards go onto.
 
 ### Voting
