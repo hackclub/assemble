@@ -2,14 +2,6 @@
 
 _or, "what do we prompt people to build..."_
 
-- [Event prompt](#event-prompt)
-  - [Intent](#intent)
-  - [Proposals](#proposals)
-    - [No theme](#no-theme)
-    - [Build for yourself](#build-for-yourself)
-    - [Wheel of fortune (Random prompt)](#wheel-of-fortune-random-prompt)
-    - [Kahoot](#kahoot)
-
 > _:information_source: This document is a work-in-progress draft. Please don't quote this as an official document until this message is removed._
 
 > _:information_source: This document contains multiple proposals requesting comments and reviews. Please post in #assemble-bts with feedback._
@@ -57,39 +49,3 @@ Sam prompt ideas: "down under", "javascript hell". idea: glasses with arduino so
 "speed" could evoke devtool building or assembly/C programming, I gave Sam "unnecessarily complex": "to-do list app but it's 6 factor authentication, and your list items have to be base64 encoded wait no emoji encoded and then when you want to check something off, you ... machine learning to see that you do 20 push ups and then it needs an email confirmation from your boss that you've done the task and finally you have to say what the task was to make sure you remember what you did. oh and meanwhile it's in the format of an nsa dashboard like you see on hackertyper yeah?" _wow, sam!_
 
 Similar idea used in the past: https://ldjam.com/events/ludum-dare/50/theme
-
-
-
-<details>
-  <summary>
-    <h3>Deprecated proposals of the past</h3>
-  </summary>
-Peek a boo!
-
-### No theme
-
-This is the base case. The default. Expect more experienced hackers to get working on their own projects. Team formation is probably based on how well people pitch their idea.
-
-Entry-level coders end up not having a direction & will probably attend a workshop or two to while trying to find a direction, so we should make sure the workshops the first night are heavily focused on actionable outcomes ("concepts of html" -> "build and host your first website in an hour").
-
-We'll probably encounter similar pitfalls of regular hackathons, 
-
-### Build for yourself
-
-This theme would be a classic prompt-style theme for the event.
-
-The intent is to guide entry-level to beginners who aren't sure where to start, while still being interesting for the most technical people.
-
-The most technical attendees are already building things for themselves (tools, websites, homelabs, etc.), and the beginners won't get distracted by the business-plan side of things.
-
-The intent is to address some of the issues that many hackathons run into– projects that promise too much. You [can't solve societal problems in 24 hours](https://jzhao.xyz/posts/hackathons/#prize-incentives), so this theme has built-in scope.
-
-### Wheel of fortune (Random prompt)
-
-Attendees are assigned random themes. Methods of distributing the theme include...
-
-- Drawing cards from a hat
-- [Wheel of fortune](https://www.amazon.com/Spinning-Wheel-Markers-Eraser-Prizes/dp/B07ZQ387P3/ref=sr_1_17?keywords=wheel+of+fortune+wheel+spinner&qid=1657994445&sprefix=wheel+of+fortune%2Caps%2C77&sr=8-17)
-- [A theme generator website](http://summer.hackclub.com/ideas)
-  
-</details>
