@@ -29,7 +29,7 @@ All attendees will be required to submit proof of full vaccination including add
 
 ### Covid Test Documentation
 
-We require all attendees & organizers produce the results of a negative antigen test within 24 hours of the event. For convenience, tests will be provided at the venue before the event so attendees who don't have their own tests can take one before checking in. Everyone testing at check-in will slow down the event though, so we encourage attendees to test on their own before checking in.
+We require all attendees & organizers produce the results of a negative antigen test within 24 hours of the event or (if flying) before you leave to travel.
 
 <!-- @msw: Ah, hello there! you're reading the raw markdown, aren't you? I'm commenting this out because we don't have any applicants at the time of writing with a medical excemption & I'd like to keep the wording concise (why cover an edgecase we don't have). If it comes up we can uncomment the following line: -->
 <!-- If an attendee is not vaccinated (in the case of a medical excemption), they must produce the results of a **negative PCR test** within 24 hours of the event. -->
