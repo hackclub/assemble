@@ -50,7 +50,7 @@ The venue will have signs posted with directions to testing and steps on how to 
 
 ### Self-report Response
 
-If an attendee or organizer begins to show symptoms and/or has a positive test, they must isolate and leave the event. They are responsible for coordinating housing.
+If an attendee or organizer begins to show symptoms and/or has a positive test, they must isolate and leave the event. They are responsible for coordinating housing and rebooking travel if needed.
 
 We will send a notification email to attendees with exposure details if there is a positive test.
 
