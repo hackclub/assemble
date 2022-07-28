@@ -1,5 +1,21 @@
 # Opening Ceremony Script
 
+
+👋
+
+
+This weekend... 
+
+let's encourage the ideas that are crazy,
+
+that are slightly out there
+
+and that are incredibly out there.
+
+In that same spirit, we asked around for ideas.
+
+Here's what we got back...
+
 _Hacker building on a computer._
 
 _COVID-19 sneaks up behind them, slow Zoom on them_
