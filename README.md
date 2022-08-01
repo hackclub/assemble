@@ -8,6 +8,16 @@ Many Hack Clubbers in 2022 had heard about great IRL hackathons, but very few ha
 
 To do this, we hosted the first high-school hackathon in San Francisco since the pandemic began, open sourced the entire event (here!) & launched a series of supports for high school hackathon organisers based on our experience.
 
+## 📝 Assembling Assemble
+
+The majority of work on Assemble was done in a month, from July 5th to August 5th. Every week of that month, @sampoder, the Assemble team lead, wrote a journal update on the Assemble organising process. Together they tell the story of how Assemble went from an idea to an event for 150+ hackers.
+
+- Issue #1, July 8th
+- Issue #2, July 15th
+- Issue #3, July 24th
+- Issue #4, July 30th
+- Issue #5, August 5th
+
 ## 💵 Finances
 
 The finances for Assemble are open sourced [here](https://bank.hackclub.com/assemble) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427).
