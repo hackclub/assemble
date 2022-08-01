@@ -2,7 +2,7 @@
 
 _150+ Hackers ~ 42 Hours ~ Figma HQ, San Francisco_
 
-> Hey! Thanks for checking out `hackclub/assemble` :grin:. This repository is a work-in-progress as we wrap up work our on Assemble. As we develop the repository, we'd love your support through [issues](https://github.com/hackclub/assemble/issues) & [pull requests](https://github.com/hackclub/assemble/pulls). Specifically, we'd love to hear from high schoolers about what information you'd like to see included in the repository! 
+> Hey! Thanks for checking out `hackclub/assemble` :grin:. This repository is a work-in-progress as we wrap up our work on Assemble. As we develop the repository, we'd love your support through [issues](https://github.com/hackclub/assemble/issues) & [pull requests](https://github.com/hackclub/assemble/pulls). Specifically, we'd love to hear from high schoolers about what information you'd like to see included in the repository! 
 
 Many Hack Clubbers in 2022 had heard about great IRL hackathons, but very few had been to one. They vanished when the pandemic hit, and went missing as the world emerged from the pandemic. Our 2022 summer project was to kick off a hackathon renaissance, together with Hack Clubbers. 
 
