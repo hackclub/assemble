@@ -18,7 +18,7 @@ The majority of work on Assemble was done in a month, from July 5th to August 5t
 - [Issue #2, July 15th](updates/2.md)
 - [Issue #3, July 24th](updates/3.md)
 - [Issue #4, July 30th](updates/4.md)
-- Issue #5, August 5th
+- [Issue #5, August 5th](updates/5.md)
 
 ## 💵 Finances
 
