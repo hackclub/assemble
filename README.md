@@ -1,6 +1,4 @@
-# Assemble - August 5th to 7th, 2022
-
-_150+ Hackers ~ 42 Hours ~ Figma HQ, San Francisco_
+![Assemble ~ 5th August to 7th August](https://cloud-876y1ldkk-hack-club-bot.vercel.app/0postcard__1-4.png)
 
 > Hey! Thanks for checking out `hackclub/assemble` :grin:. This repository is a work-in-progress as we wrap up our work on Assemble. As we develop the repository, we'd love your support through [issues](https://github.com/hackclub/assemble/issues) & [pull requests](https://github.com/hackclub/assemble/pulls). Specifically, we'd love to hear from high schoolers about what information you'd like to see included in the repository! 
 
