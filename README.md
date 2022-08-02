@@ -26,7 +26,7 @@ The finances for Assemble are open sourced [here](https://bank.hackclub.com/asse
 
 ## 📄 Planning Documents
 
-Collating these is a WIP, check you [`/planning`](/planning)!
+Collating these is a WIP, check out [`/planning`](/planning)!
 
 ## 💻 Associated Repositories
 
