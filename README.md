@@ -12,7 +12,7 @@ To do this, we hosted the first high-school hackathon in San Francisco since the
 
 ## 📝 Assembling Assemble
 
-The majority of work on Assemble was done in a month, from July 5th to August 5th. Every week of that month, @sampoder, the Assemble team lead, wrote a journal update on the Assemble organising process. Together they tell the story of how Assemble went from an idea to an event for 150+ hackers.
+The majority of work on Assemble was done in a month, from July 5th to August 5th. Every week of that month, [@sampoder](https://github.com/sampoder) wrote a journal update on the Assemble organising process. Together they tell the story of how Assemble went from an idea to an event for 150+ hackers.
 
 - [Issue #1, July 8th](updates/1.md)
 - [Issue #2, July 15th](updates/2.md)
