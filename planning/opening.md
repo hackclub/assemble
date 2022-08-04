@@ -28,7 +28,7 @@ COVID-19 & Monkeypox are ongoing public health emergencies in San Francisco, we 
 
 We are here to support you and to make this event safe for you, thank you for your cooperation in making this event amazing. 
 
-Christina: safety, who to contact, being kind etc.
+Christina: safety, who to contact, being kind etc. Bring everyone on stage and highlight who is staff.
 
 Ishan & Bash: We've got an exciting schedule lined up for this weekend. _run through schedule_
 
