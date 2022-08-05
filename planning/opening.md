@@ -22,7 +22,7 @@ To travel between the fifth and sixth floor, you will need to have a crew member
 
 At times in our journey, you may want to connect to the wider internet. WiFi is available throughout out this journey and can be accessed at the SSID `Hack Club` and with the password `dinosaurbbq`.
 
-Throughout our journey, the crew will make announcements about upcoming service. To keep up to date, please join the Hack Club Slack & the #assemble channel. Everyone can join at hack.af/assemble-slack. Critical communications will also be made in-person and through the microphone.
+Throughout our journey, the crew will make announcements about upcoming service. To keep up to date, please watch your phone for SMS messages. Critical communications will also be made in-person and through the microphone.
 
 COVID-19 & Monkeypox are ongoing public health emergencies in San Francisco, we ask that all attendees are mindful of these health emergencies and precautious. N95 masks are available throughout the venue and are recommended for all participants. All participants and crew tested negative for COVID-19 before attending today, but if at any time you experience symptoms, please approach a crew member immediately for support. Likewise, please be mindful of the spread of Monkeypox within San Francisco. As a precaution, please avoid close contact and wash hands frequently. Hand sanitizer and disinfectant spray is available throughout the venue. If at anytime you develop a rash, please approach a member of the crew immediately. After the event, a self-report link will be made available to all attendees to provide anonymous contact tracing.
 
