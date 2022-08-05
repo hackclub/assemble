@@ -12,7 +12,7 @@ Zach: Launch Hackathons.
 
 Video: Airplane Safety Video on Logistics
 
-Welcome to the Figma HQ. Our first priority at every hackathon, is the health and safety of our attendees and crew. We appreciate your full attention as we demonstrate the safety requirements and logistical details of this office.
+Welcome to the Hack Air. Our first priority on every flight, is the health and safety of our passengers and crew. We appreciate your full attention as we demonstrate the safety requirements and logistical details of this aircraft.
 
 There are two floors open at today's hackathon. You are currently located on the fifth floor of the office in the Courtyard area. The sixth floor is our designated sleeping area. It will open from midnight tonight to 10:00am tomorrow and from 10pm tomorrow night until 7:00am on Sunday. 
 
