@@ -14,17 +14,13 @@ Video: Airplane Safety Video on Logistics
 
 Welcome to the Figma HQ. Our first priority at every hackathon, is the health and safety of our attendees and crew. We appreciate your full attention as we demonstrate the safety requirements and logistical details of this office.
 
-There are two floors open at today's hackathon. You are currently located on the fifth floor of the office in the Courtyard area. The Courtyard plays host to all major events of this hackathon. Also on the fifth floor, you will find a vast open space for programming, six conference rooms for workshops and two kitchens for meals. 
+There are two floors open at today's hackathon. You are currently located on the fifth floor of the office in the Courtyard area. The sixth floor is our designated sleeping area. It will open from midnight tonight to 10:00am tomorrow and from 10pm tomorrow night until 7:00am on Sunday. 
 
-The sixth floor is our designated sleeping area. It will open from midnight tonight to 10:00am tomorrow and from 10pm tomorrow night until 7:00am on Sunday. Please use the space respectfully in the evenings to sleep. The space is separated into a gender neutral, a female and a male sleeping room. Please feel free to approach a crew member, as indicated by this red bandana, at anytime.
-
-To travel between the fifth and sixth floor, you will need to have a crew member to open the door at each floor. If a crew member is not present at the door, please ring the doorbell and a member of the crew will open the door for you. Please have your badge visible at all times. Between the hours of 6AM to 10PM, those with permission as per their waiver, may leave the office. To do so, please show your wristband to onsite security on the 5th floor. Please make sure to return by 10PM, thank you. 
-
-At times in our journey, you may want to connect to the wider internet. WiFi is available throughout out this journey and can be accessed at the SSID `Hack Club` and with the password `dinosaurbbq`.
+To travel between the fifth and sixth floor, you will need to have a crew member to open the door at each floor. Please have your badge and, if applicable, freedom waiver wristband visible at all times. Between the hours of 6AM to 10PM, those with permission as per their waiver, may leave the office.
 
 Throughout our journey, the crew will make announcements about upcoming service. To keep up to date, please watch your phone for SMS messages. Critical communications will also be made in-person and through the microphone.
 
-COVID-19 & Monkeypox are ongoing public health emergencies in San Francisco, we ask that all attendees are mindful of these health emergencies and precautious. N95 masks are available throughout the venue and are recommended for all participants. All participants and crew tested negative for COVID-19 before attending today, but if at any time you experience symptoms, please approach a crew member immediately for support. Likewise, please be mindful of the spread of Monkeypox within San Francisco. As a precaution, please avoid close contact and wash hands frequently. Hand sanitizer and disinfectant spray is available throughout the venue. If at anytime you develop a rash, please approach a member of the crew immediately. After the event, a self-report link will be made available to all attendees to provide anonymous contact tracing.
+COVID-19 & Monkeypox are ongoing public health emergencies in San Francisco, we ask that all attendees are mindful of these health emergencies and precautious. N95 masks, hand sanitizer and disinfectant spray are available throughout the venue. As a precaution against Monkeypox, please avoid close contact and wash hands frequently. If at any time you experience symptoms of COVID-19 or Monkeypox, please approach a crew member immediately for support. After the event, a self-report link will be made available to all attendees to provide anonymous contact tracing.
 
 We are here to support you and to make this event safe for you, thank you for your cooperation in making this event amazing. 
 
