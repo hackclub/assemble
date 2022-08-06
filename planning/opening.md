@@ -35,3 +35,29 @@ Let's all try it out, get out your devices, head to `assemble.hackclub.com`, log
 Sam: There's one thing I can imagine is on all of your minds, what should I build? A week ago, we asked you to submit prompt ideas, now, we're going to use those to choose a prompt, together. We hope this prompt will inspire you and set you off in a creative direction, but it's nothing more than a prompt and certainly not a requirement.
 
 Sam: We've got a theme, a scrapbook to post to, we've ran through the schedule and are all set with our theme of [INSERT THEME]. So what are we all waiting for? Get chatting with the folks around you, start brainstorming [INSERT THEME] projects, grab some Vietnamese food for dinner and let the hackathon begin! 
+
+## Notes used for Opening Ceremony V2
+
+- team based event (just u or up to 4 people)
+
+- prompt to guide, i don't even know what it is, in a couple of minutes, real-time, we're going to vote on it
+
+- all night tonight, all day tomorrow you and your team are going to build a project based on the prompt
+
+- as you progress, you'll be updating and shipping on your scrapbook. to do that you'll want to head to scrapbook.assemble.hackclub.com, login with your Assemble ID and upload a photo!  over the course of the evening, our team will be helping you get set up.
+
+- we end at 8am Sunday.
+
+- On sunday, there's twist, no judges, in fact, every single one of you are judges
+
+- Everyone's going to get a booth where you and your team are going to demo your projects for two hours, and everyone will vote on each other's projects with Scrapbook & emoji. demo a project with code that runs, don't make a slideshow.
+
+- the judging criteria is to build a project you're proud of, what ever that means to you. something useful or something useless, it doesn't matter. all we're aiming for is a project that makes you smile with pride. 
+
+- there's over 15 different prizes that range from the funniest hack to the most cursed project, that you all will be . prizes are custom made arcylic plaques that come alongside goodies such as electronics kits and orpheus plushies. 
+
+- over the course of this weekend, we have a ton of fun activities planned that range from catered vietnamese food for dinner tonight to a music show put on by Lux, who built their own synthesiser from scratch. we'll share the full schedule with you over text and at the end of this ceremony. personally, i'm super phsyced for tonight's "untalent show"
+
+and with that I have short safety video from max.
+
+and listen, the last thing i want to say before we start voting on the prompt. we're all here together, you, me, the assemble team we're high schoolers and hack clubbers. you can find the staff by our bandanas, but really you all will be the ones who make this event magical. be kind, be helpful. let's make this the most incredibly weekend that's happened this year 
