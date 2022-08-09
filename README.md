@@ -30,7 +30,11 @@ Collating these is a WIP, check out [`/planning`](/planning)!
 
 ## 💻 Associated Repositories
 
-Coming soon!
+| Repo                                                               	| Description 	|
+|--------------------------------------------------------------------	|-------------	|
+| [assemble-schedule](https://github.com/hackclub/assemble-schedule) 	| asseme      	|
+| [assemble](https://github.com/hackclub/assemble)                   	|             	|
+|                                                                    	|             	|
 
 ## ☀️ In Years Past
 
