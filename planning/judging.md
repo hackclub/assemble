@@ -10,10 +10,6 @@ _or, "what is the end-goal of the event"_
     - [Scrapbook](#scrapbook)
     - [After judging / after event](#after-judging--after-event)
 
-> _:information_source: This document is a work-in-progress draft. Please don't quote this as an official document until this message is removed._
-
-> _:information_source: This document contains multiple proposals requesting comments and reviews. Please post in #assemble-bts with feedback._
-
 Judging subteam: Ishan, Ian, Max
 
 ## Intent
