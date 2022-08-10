@@ -30,7 +30,11 @@ Collating these is a WIP, check out [`/planning`](/planning)!
 
 ## 💻 Associated Repositories
 
-Coming soon!
+- The website: https://github.com/hackclub/www-assemble
+- The schedule for attendees at the event: https://github.com/hackclub/assemble-schedule
+- Our voting and judging system for the event: https://github.com/hackclub/assemble-scrapbook
+- The print system supporting scrapbook: https://github.com/hackclub/assemble-print
+- A fun activity during check-in: https://github.com/hackclub/assemble-tv-thing
 
 ## ☀️ In Years Past
 
