@@ -1,6 +1,6 @@
 ![Assemble ~ 5th August to 7th August](https://cloud-lc9ubrbk8-hack-club-bot.vercel.app/0postcard__1-5.png)
 
-[💻 Website](https://assemble.hackclub.com) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Repos](#-associated-repositories) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
+[💻 Website](https://assemble.hackclub.com/launch) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Repos](#-associated-repositories) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
 
 ---
 
