@@ -8,7 +8,23 @@
 
 Many Hack Clubbers in 2022 had heard about great IRL hackathons, but very few had been to one. They vanished when the pandemic hit, and went missing as the world emerged from the pandemic. Our 2022 summer project was to kick off a hackathon renaissance, together with Hack Clubbers. 
 
-To do this, we hosted the first high-school hackathon in San Francisco since the pandemic began, open sourced the entire event (here!) & launched a series of supports for high school hackathon organisers based on our experience.
+To do this, we hosted the first high-school hackathon in San Francisco since the pandemic began, open sourced the entire event (here!) & [launched a series of supports](https://hackclub.com/hackathons/) for high school hackathon organisers based on our experience.
+
+The goal of this repository is to be a guiding reference for high schoolers looking to organise their own hackathon. No hackathon is the same but we hope that within this repository you find inspiration for you own special event.
+
+## ✨ The Philosophy
+
+A hackathon is not an extracurricular or a club. It's not a class or a lecture. Hackathons are a place to build things for fun and meet others doing the same. 
+
+[Read more about Hack Club's Philosophy ➚](https://hackclub.com/philosophy/)
+
+## 📆 The Event
+
+## 🫂 The Attendees
+
+## 💸 The Budget
+
+## 📌 The Venue
 
 ## 📝 Assembling Assemble
 
@@ -19,14 +35,11 @@ The majority of work on Assemble was done in a month, from July 5th to August 5t
 - [Issue #3, July 24th](updates/3.md)
 - [Issue #4, July 30th](updates/4.md)
 - [Issue #5, August 5th](updates/5.md)
+- [Issue #6, August 13th](updates/6.md)
 
 ## 💵 Finances
 
 The finances for Assemble are open sourced [here](https://bank.hackclub.com/assemble) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427).
-
-## 📄 Planning Documents
-
-Collating these is a WIP, check out [`/planning`](/planning)!
 
 ## 💻 Associated Repositories
 
