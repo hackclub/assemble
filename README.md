@@ -24,6 +24,8 @@ A hackathon is not an extracurricular or a club. It's not a class or a lecture. 
 
 ## 💸 The Budget
 
+The finances for Assemble are open sourced [here](https://bank.hackclub.com/assemble) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427).
+
 ## 📌 The Venue
 
 ## 📝 Assembling Assemble
@@ -36,10 +38,6 @@ The majority of work on Assemble was done in a month, from July 5th to August 5t
 - [Issue #4, July 30th](updates/4.md)
 - [Issue #5, August 5th](updates/5.md)
 - [Issue #6, August 13th](updates/6.md)
-
-## 💵 Finances
-
-The finances for Assemble are open sourced [here](https://bank.hackclub.com/assemble) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427).
 
 ## 💻 Associated Repositories
 
