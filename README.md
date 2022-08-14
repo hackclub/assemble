@@ -1,6 +1,6 @@
-![Assemble ~ 5th August to 7th August](https://cloud-lc9ubrbk8-hack-club-bot.vercel.app/0postcard__1-5.png)
+[![Assemble ~ 5th August to 7th August](https://cloud-lc9ubrbk8-hack-club-bot.vercel.app/0postcard__1-5.png)](https://assemble.hackclub.com/launch)
 
-[💻 Website](https://assemble.hackclub.com/launch) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Repos](#-associated-repositories) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
+[✨ The Philosophy](#-the-philosophy) | [📆 The Event](#-the-event) | [🫂 The Attendees](#-the-attendees) | [💸 The Budget](#-the-budget) | [📌 The Venue](#-the-venue)  [📚 Further Reading](#-further-reading)
 
 ---
 
@@ -28,7 +28,9 @@ The finances for Assemble are open sourced [here](https://bank.hackclub.com/asse
 
 ## 📌 The Venue
 
-## 📝 Assembling Assemble
+## 📚 Further Reading
+
+### 📝 Assembling Assemble
 
 The majority of work on Assemble was done in a month, from July 5th to August 5th. Every week of that month, [@sampoder](https://github.com/sampoder) wrote a journal update on the Assemble organising process. Together they tell the story of how Assemble went from an idea to an event for 150+ hackers.
 
@@ -39,7 +41,7 @@ The majority of work on Assemble was done in a month, from July 5th to August 5t
 - [Issue #5, August 5th](updates/5.md)
 - [Issue #6, August 13th](updates/6.md)
 
-## 💻 Associated Repositories
+### 💻 Associated Repositories
 
 - The website: https://github.com/hackclub/www-assemble
 - The registration site: https://github.com/hackclub/www-assemble-register
@@ -48,9 +50,9 @@ The majority of work on Assemble was done in a month, from July 5th to August 5t
 - The print system supporting scrapbook: https://github.com/hackclub/assemble-print
 - A fun activity during check-in: https://github.com/hackclub/assemble-tv-thing
 
-## ☀️ In Years Past
+### ☀️ In Years Past
 
-We've previously ran other summer projects:
+We've previously ran other summer projects, learn more about them:
 
 | Year | Project                                                        | Description                                                                                                                                                                                                                                                                           |
 | ---- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
