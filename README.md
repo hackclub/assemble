@@ -20,15 +20,25 @@ A hackathon is not an extracurricular or a club. It's not a class or a lecture. 
 
 ## 📆 The Event
 
+[Read more in `/the-event` ➚](/the-event)
+
 ## 🫂 The Attendees
+
+[Read more in `/the-attendees` ➚](/the-attendees)
 
 ## 💸 The Budget
 
 The finances for Assemble are open sourced [here](https://bank.hackclub.com/assemble) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427).
 
+[Read more in `/the-budget` ➚](/the-budget)
+
 ## 📌 The Venue
 
+[Read more in `/the-venue` ➚](/the-venue)
+
 ## 📚 Further Reading
+
+Below you can find a series of resources curated and created by the Assemble team that will help you when organising.
 
 ### 📝 Assembling Assemble
 
