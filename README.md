@@ -38,7 +38,7 @@ The finances for Assemble are open sourced [here](https://bank.hackclub.com/asse
 
 ## 📚 Further Reading
 
-Below you can find a series of resources curated and created by the Assemble team that will help you when organising.
+Below you can find a series of resources curated and created by the Assemble team that we hope will help you when organising your own events.
 
 ### 📝 Assembling Assemble
 
