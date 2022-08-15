@@ -14,7 +14,13 @@ The goal of this repository is to be a guiding reference for high schoolers look
 
 ## ✨ The Philosophy
 
-A hackathon is not an extracurricular or a club. It's not a class or a lecture. Hackathons are a place to build things for fun and meet others doing the same. 
+A hackathon is not an extracurricular or a club. It's not a class or a lecture. Hackathons are a place to build things for fun and meet others doing the same. Going into organising Assemble, we brainstormed what a magical hackathon looked like, from those brainstorms we developed the following framework for a great hackathon:
+
+- Hackers are prompted to create weird & wacky projects.
+- Hackers feel ownership of the event.
+- Hackers walk away with a set of unique and memorable experiences.
+- Hackers are provided with the opportunity to form personal connections.
+- Organisers are consistently involved and passionate at the event.
 
 [Read more about Hack Club's Philosophy ➚](https://hackclub.com/philosophy/)
 
