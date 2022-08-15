@@ -1,4 +1,4 @@
-[![Assemble ~ 5th August to 7th August](https://cloud-lc9ubrbk8-hack-club-bot.vercel.app/0postcard__1-5.png)](https://assemble.hackclub.com/launch)
+[![Assemble ~ 5th August to 7th August](https://user-images.githubusercontent.com/39828164/184644927-e0c0baef-e299-4e91-9136-784090a1e098.png)](https://assemble.hackclub.com/launch)
 
 [✨ The Philosophy](#-the-philosophy) | [📆 The Event](#-the-event) | [🫂 The Attendees](#-the-attendees) | [💸 The Budget](#-the-budget) | [📌 The Venue](#-the-venue) | [📚 Further Reading](#-further-reading)
 
