@@ -22,6 +22,8 @@ The majority of work on Assemble was done in a month, from July 5th to August 5t
 
 ## 💵 Finances
 
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fbank-shields.hackclub.com%2Forganizations%2Fassemble%2Fbalance)](https://bank.hackclub.com/assemble)
+
 The finances for Assemble are open sourced [here](https://bank.hackclub.com/assemble) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427).
 
 ## 📄 Planning Documents
