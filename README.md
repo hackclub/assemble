@@ -4,13 +4,35 @@
 
 ---
 
+<!--
+- who, what, when, where, why
+- what happened at the event
+	- what happens at a good hackathon & outputs
+	- schedule
+	- organized activities
+	- attendee experience
+    - swag and prizes
+- who showed up
+    - marketing
+    - gwc & kwk
+- budgetting
+	- food
+	- sponsors
+		- reason we funded ourselves
+		- tools for funding written for someone deciding to run an event
+		- meginar, etc.
+- where do I host it?
+	- getting Figma
+	- other venues we attempted (github, no responses, venues we considered as backups)
+!-->
+
 > Hey! Thanks for checking out `hackclub/assemble` :grin:. This repository is a work-in-progress as we wrap up our work on Assemble. As we develop the repository, we'd love your support through [issues](https://github.com/hackclub/assemble/issues) & [pull requests](https://github.com/hackclub/assemble/pulls). Specifically, we'd love to hear from high schoolers about what information you'd like to see included in the repository! 
 
 Many Hack Clubbers in 2022 had heard about great IRL hackathons, but very few had been to one. They vanished when the pandemic hit, and went missing as the world emerged from the pandemic. Our 2022 summer project was to kick off a hackathon renaissance, together with Hack Clubbers. 
 
 To do this, we hosted the first [high-school hackathon](https://twitter.com/hackclub/status/1556433548361338881) in San Francisco since 2020, [open sourced](https://github.com/hackclub/assemble) the entire event & [launched a series of supports](https://hackclub.com/hackathons/) for high school hackathon organisers based on our experience.
 
-The goal of this repository is to be a guiding reference for high schoolers looking to organise their own hackathon. No hackathon is the same but we hope that within this repository you find inspiration for you own special event.
+The goal of this repository is to be a guiding reference for high schoolers looking to organise their own hackathon. No hackathon is the same but we hope that within this repository you can find inspiration for you own special event.
 
 ## ✨ The Philosophy
 
@@ -26,9 +48,13 @@ A hackathon is not an extracurricular or a club. It's not a class or a lecture. 
 
 ## 📆 The Event
 
+Assemble ran from 6PM on Friday to noon on Sunday. That's 42 hours to make our own. Creating a great hackathon, means designing a spectacular attendee experience as well as a great organiser experience. There are a fair few components to this including, but not limited to, planned activities, judging, swag, food and ceremonies. The specifics of each at Assemble are detailed in their respective files in [`/the-event`](/the-event).
+
 [Read more in `/the-event` ➚](/the-event)
 
 ## 🫂 The Attendees
+
+The people are what bring a hackathon alive.
 
 [Read more in `/the-attendees` ➚](/the-attendees)
 
