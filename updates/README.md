@@ -10,3 +10,5 @@ Organising a hackathon is a mixture of absolute chaos, creativity, fun and madne
 - [Issue #4, July 30th](updates/4.md)
 - [Issue #5, August 5th](updates/5.md)
 - [Issue #6, August 13th](updates/6.md)
+
+\- [@sampoder](https://github.com/sampoder)
