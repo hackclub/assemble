@@ -8,7 +8,7 @@
 
 Many Hack Clubbers in 2022 had heard about great IRL hackathons, but very few had been to one. They vanished when the pandemic hit, and went missing as the world emerged from the pandemic. Our 2022 summer project was to kick off a hackathon renaissance, together with Hack Clubbers. 
 
-To do this, we hosted the [first high-school hackathon in San Francisco since 2020](https://twitter.com/hackclub/status/1556433548361338881), open sourced the entire event (here on GitHub!) & [launched a series of supports](https://hackclub.com/hackathons/) for high school hackathon organisers based on our experience.
+To do this, we hosted the [first high-school hackathon in San Francisco since 2020](https://twitter.com/hackclub/status/1556433548361338881), [open sourced](https://github.com/hackclub/assemble) the entire event & [launched a series of supports](https://hackclub.com/hackathons/) for high school hackathon organisers based on our experience.
 
 The goal of this repository is to be a guiding reference for high schoolers looking to organise their own hackathon. No hackathon is the same but we hope that within this repository you find inspiration for you own special event.
 
