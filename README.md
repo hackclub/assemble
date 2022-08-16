@@ -81,10 +81,15 @@ Below you can find a series of resources curated and created by the Assemble tea
 The majority of work on Assemble was done in a month, from July 5th to August 5th. Every week of that month, [@sampoder](https://github.com/sampoder) wrote a journal update on the Assemble organising process. Together they tell the story of how Assemble went from an idea to an event for 175 hackers.
 
 [👋 Issue #1: Getting Started in Vermont, July 8th](updates/1.md)
+
 [😫 Issue #2: Everything Gets Really Difficult Really fast, July 15th](updates/2.md)
+
 [👣 Issue #3: Gaining My Footing, July 24th](updates/3.md) 
+
 [🎉 Issue #4: Starting To See Light At The End of The Tunnel, July 30th](updates/4.md)
+
 [👨‍🚒 Issue #5: Seeing The Event Across The Line, August 5th](updates/5.md)
+
 [😥 Issue #6: Looking Back, August 13th](updates/6.md)
 
 ### 💻 Associated Repositories
