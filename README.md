@@ -48,23 +48,27 @@ A hackathon is not an extracurricular or a club. It's not a class or a lecture. 
 
 ## 📆 The Event
 
-Assemble ran from 6PM on Friday to noon on Sunday. That's 42 hours to make our own. Creating a great hackathon, means designing a spectacular attendee experience as well as a great organiser experience. There are a fair few components to this including, but not limited to, planned activities, judging, swag, food and ceremonies. The specifics of each at Assemble are detailed in their respective files in [`/the-event`](/the-event).
+Assemble ran from 6PM on Friday to 12PM on Sunday. That's 42 hours to make our own. Creating a great hackathon, means designing a spectacular attendee experience as well as a great organiser experience. There are a fair few components to this including, but not limited to, planned activities, judging, swag, food and ceremonies. The specifics of each at Assemble are detailed in their respective files in [`/the-event`](/the-event).
+
+Our general principle when event designing was to place ourselves in the shoes of those involved and to guided by the above principles. At times, you do have to balance great ideas with practical constraints but modifications can be made to ideas to make them practical. We made sure to consider the organiser experience because organisers set the tone of the event
 
 [Read more in `/the-event` ➚](/the-event)
 
 ## 🫂 The Attendees
 
-The people are what bring a hackathon alive.
+There's only so much organisers can do along to make a wonderful hackathon, it is the attendees who bring a hackathon alive. As an organiser, your role in this process is to make sure everyone who needs to hear about your hackathon does, to convert these potential participants into attendees, to make sure they're all set for the event and then to inspire them to embrace the spirit of the hackathon. At the same time, you may choose to invite non-high schoolers to mentor and talk with the attendees. At Assemble, we wanted to make sure such relationships were casual and human, an approach you can read more about [here](). 
 
 [Read more in `/the-attendees` ➚](/the-attendees)
 
 ## 💸 The Budget
 
-The finances for Assemble are open sourced [here](https://bank.hackclub.com/assemble) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427).
+Assemble had a budget of \$75,000, that's a large budget for a high school hackathon. HS hackathon budgets can range anywhere from \$500 to \$75,000. Whatever your budget is, you'll find a similar set of expenses will arise between all hackathons. Every expense made for Assemble has been open sourced [here](https://bank.hackclub.com/assemble) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427). As an organiser, you'll need to raise money, create an itemized budget (which accounts for the unexpected) and then spend the money raised as planned. 
 
 [Read more in `/the-budget` ➚](/the-budget)
 
 ## 📌 The Venue
+
+Since the pandemic began, finding a venue has became by far the most challenging aspect of organising a hackathon. Assemble was hosted across two floors in Figma's San Francisco office, situated in the Phelan Building on Market Street. Getting there took almost 40% of the time spent organising the event, however, when the event rolled around it was well and truly worth it. Figma's space was creatively inspiring and provided the perfect home for Assemble. As an organiser, you'll need to make pitches to potential venues, convince a venue to buy into your event, set up the venue for success and finish by making the venue provider feel appreciated.
 
 [Read more in `/the-venue` ➚](/the-venue)
 
@@ -76,12 +80,12 @@ Below you can find a series of resources curated and created by the Assemble tea
 
 The majority of work on Assemble was done in a month, from July 5th to August 5th. Every week of that month, [@sampoder](https://github.com/sampoder) wrote a journal update on the Assemble organising process. Together they tell the story of how Assemble went from an idea to an event for 175 hackers.
 
-- [Issue #1, July 8th](updates/1.md)
-- [Issue #2, July 15th](updates/2.md)
-- [Issue #3, July 24th](updates/3.md)
-- [Issue #4, July 30th](updates/4.md)
-- [Issue #5, August 5th](updates/5.md)
-- [Issue #6, August 13th](updates/6.md)
+- [Issue #1: Getting Started in Vermont, July 8th](updates/1.md)
+- [Issue #2: Everything Gets Really Difficult Really fast, July 15th](updates/2.md)
+- [Issue #3: Gaining My Footing, July 24th](updates/3.md)
+- [Issue #4: Starting To See Light At The End of The Tunnel, July 30th](updates/4.md)
+- [Issue #5: Seeing The Event Across The Line, August 5th](updates/5.md)
+- [Issue #6: Looking Back, August 13th](updates/6.md)
 
 ### 💻 Associated Repositories
 
