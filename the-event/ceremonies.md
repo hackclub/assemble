@@ -1,4 +1,8 @@
-# Opening Ceremony Script
+# Opening & Closing Ceremonies 
+
+> Coming soon!
+
+## Opening Ceremony Script
 
 _"Hackers, ASSEMBLE!" Video_
 
@@ -36,7 +40,7 @@ Sam: There's one thing I can imagine is on all of your minds, what should I buil
 
 Sam: We've got a theme, a scrapbook to post to, we've ran through the schedule and are all set with our theme of [INSERT THEME]. So what are we all waiting for? Get chatting with the folks around you, start brainstorming [INSERT THEME] projects, grab some Vietnamese food for dinner and let the hackathon begin! 
 
-## Notes used for Opening Ceremony V2
+### Notes used for Opening Ceremony V2
 
 - team based event (just u or up to 4 people)
 
