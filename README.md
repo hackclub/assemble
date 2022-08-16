@@ -95,6 +95,9 @@ The majority of work on Assemble was done in a month, from July 5th to August 5t
 - Our voting and judging system for the event: https://github.com/hackclub/assemble-scrapbook
 - The print system supporting scrapbook: https://github.com/hackclub/assemble-print
 - A fun activity during check-in: https://github.com/hackclub/assemble-tv-thing
+- System to collect proof of vaccination and negative test results as well as distributing tickets: https://github.com/hackclub/assemble-preflight-web
+- (Unused) System to use prompt: https://github.com/hackclub/assemble-prompter
+- Puzzle leading up to launch: https://github.com/hackclub/assemble-puzzle
 
 ### ☀️ In Years Past
 
