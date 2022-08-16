@@ -80,12 +80,12 @@ Below you can find a series of resources curated and created by the Assemble tea
 
 The majority of work on Assemble was done in a month, from July 5th to August 5th. Every week of that month, [@sampoder](https://github.com/sampoder) wrote a journal update on the Assemble organising process. Together they tell the story of how Assemble went from an idea to an event for 175 hackers.
 
-- [Issue #1: Getting Started in Vermont, July 8th](updates/1.md)
-- [Issue #2: Everything Gets Really Difficult Really fast, July 15th](updates/2.md)
-- [Issue #3: Gaining My Footing, July 24th](updates/3.md)
-- [Issue #4: Starting To See Light At The End of The Tunnel, July 30th](updates/4.md)
-- [Issue #5: Seeing The Event Across The Line, August 5th](updates/5.md)
-- [Issue #6: Looking Back, August 13th](updates/6.md)
+[👋 Issue #1: Getting Started in Vermont, July 8th](updates/1.md)
+[😫 Issue #2: Everything Gets Really Difficult Really fast, July 15th](updates/2.md)
+[👣 Issue #3: Gaining My Footing, July 24th](updates/3.md) 
+[🎉 Issue #4: Starting To See Light At The End of The Tunnel, July 30th](updates/4.md)
+[👨‍🚒 Issue #5: Seeing The Event Across The Line, August 5th](updates/5.md)
+[😥 Issue #6: Looking Back, August 13th](updates/6.md)
 
 ### 💻 Associated Repositories
 
@@ -106,8 +106,8 @@ We've previously ran other summer projects, learn more about them:
 | Year | Project                                                        | Description                                                                                                                                                                                                                                                                           |
 | ---- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022 | [Assemble](https://assemble.hackclub.com)                       | _This repo!_ |
-| 2021 | [The Hacker Zephyr](https://github.com/hackclub/the-hacker-zephyr)                       | A cross-country hackathon on a train! ([repo](https://github.com/hackclub/the-hacker-zephyr)) ([finances](https://bank.hackclub.com/zephyr))                                                                                                                                                                                                                                                                           |
-| 2020 | [Summer of Making](https://summer.hackclub.com)                | $50k in hardware donations to teen hackers around the world + the creation of [Scrapbook](https://scrapbook.hackclub.com) ([code](https://github.com/hackclub/scrapbook))                                                                                                             |
+| 2021 | [The Hacker Zephyr](https://github.com/hackclub/the-hacker-zephyr)                       | A cross-country hacker adventure on a train! ([repo](https://github.com/hackclub/the-hacker-zephyr)) ([finances](https://bank.hackclub.com/zephyr))                                                                                                                                                                                                                                                                           |
+| 2020 | [Summer of Making](https://summer.hackclub.com)                | $50k in hardware donations to teen hackers around the world + the creation of [Scrapbook](https://scrapbook.hackclub.com) ([code](https://github.com/hackclub/scrapbook)) ([finances](https://bank.hackclub.com/summer-of-making))                                                                                                                  |
 | 2019 | [Flagship Summit](https://flagship.hackclub.com)               | IRL meetup of high school hackathon organizers and coding club leaders ([photos](https://photos.google.com/share/AF1QipO3hb2mN-Q16icE-M16d-06uHyXLmvd3Rw6b_f_oosfAX9SnOvnouPOyO79P7pR7Q?key=anphZTNFUERPWXV3YnJQV2VzVVVFMFFVcGRDc3hB))                                                |
 | 2018 | [Hack Club Bank](https://hackclub.com/bank/)                   | We built and launched the first version of Hack Club Bank (read the [1st](https://medium.com/hackclub/hack-club-bank-a-bank-for-student-hackers-e5d894ea5375) and [2nd](https://medium.com/hackclub/hack-club-bank-is-now-live-for-everyone-including-you-884f7f54836f) announcement) |
 | 2016 | [Hack Camp](https://github.com/hackclub/camp/tree/master/2016) | Summer camp / further writing & testing workshops                                                                                                                                                                                                                                     |
