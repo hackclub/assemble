@@ -13,52 +13,49 @@
 📆 The Event 
 
 - [x] README.md
-- [ ] Workshops
-- [ ] Activities
-  - [ ] "Fun Boss"
-- [ ] Opening Ceremony
-- [ ] Judging & The Closing Ceremony
-- [ ] Prizes
-  - [ ] Plaques
-- [ ] Communication
-- [ ] Swag
-  - [ ] PCB Badges
-  - [ ] Stickermule
-  - [ ] Keychains
-- [ ] Run of Show
-- [ ] Schedule
-- [ ] Sleeping
-- [ ] Food
+- [ ] Workshops - Ishan
+- [ ] Activities README - Sam
+  - [ ] "Fun Boss" - Sam
+  - [ ] CTF - Bash
+- [ ] Opening Ceremony - Sam
+- [ ] Judging & The Closing Ceremony - Copy from planning documents & adapt by Ian
+- [ ] Prizes - Hugo
+  - [ ] Plaques - Ella
+- [ ] Communication - Sam
+- [ ] Swag - Hugo
+  - [ ] PCB Badges - Hugo
+  - [ ] Stickermule - Hugo
+  - [ ] Keychains - Ella
+- [ ] Run of Show - Sam
+- [ ] Schedule - ??
+- [ ] Sleeping - Sam
+- [ ] Food - Pranav
+  - [ ] Food Scavenger Hunt - Dev
 
 🫂 The Attendees 
 
 - [x] README.md
-- [ ] Travel Stipends
-- [ ] Marketing
-  - [ ] Partnerships
-  - [ ] Website & Registration
-- [ ] Mentors
-- [ ] Communicating the event's ideals
-
-📛 The Team
-
-- [ ] README.md
-- [ ] Leading A Team
+- [ ] Travel Stipends - Sam
+- [ ] Marketing - Sam?
+  - [ ] Partnerships - Abby
+  - [ ] Website & Registration - Sam
+- [ ] Mentors - Ishan?
+- [ ] Communicating the event's ideals - ??
 
 💸 The Budget 
 
 - [x] README.md
-- [ ] Making a Budget
-- [ ] Sponsorships
-- [ ] Managing Money
+- [ ] Making a Budget - Sam
+- [ ] Sponsorships - Find Volunteer
+- [ ] Managing Money - Sam
 
 📌 The Venue 
 
 - [x] README.md
-- [ ] Finding A Venue Partner
-- [ ] Making A Venue Magical
-- [ ] Handling Your Venue Relationship
-- [ ] Thanking Your Venue
+- [ ] Finding A Venue Partner - Belle
+- [ ] Making A Venue Magical - Sam
+- [ ] Handling Your Venue Relationship - Kara or Sam
+- [ ] Thanking Your Venue - Abby?
 
 📚 Further Reading
 
