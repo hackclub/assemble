@@ -26,9 +26,9 @@
 	- other venues we attempted (github, no responses, venues we considered as backups)
 !-->
 
-> Hey! Thanks for checking out `hackclub/assemble` :grin:. This repository is a work-in-progress as we wrap up our work on Assemble. As we develop the repository, we'd love your support through [issues](https://github.com/hackclub/assemble/issues) & [pull requests](https://github.com/hackclub/assemble/pulls). Specifically, we'd love to hear from high schoolers about what information you'd like to see included in the repository! 
+> Hey! Thanks for checking out `hackclub/assemble` :grin:. This repository is a work-in-progress as we wrap up our work on Assemble. As we develop the repository, we'd love your support through [issues](https://github.com/hackclub/assemble/issues) & [pull requests](https://github.com/hackclub/assemble/pulls). Specifically, we'd love to hear from high schoolers about what information you'd like to see included in the repository!
 
-Many Hack Clubbers in 2022 had heard about great IRL hackathons, but very few had been to one. They vanished when the pandemic hit, and went missing as the world emerged from the pandemic. Our 2022 summer project was to kick off a hackathon renaissance, together with Hack Clubbers. 
+Many Hack Clubbers in 2022 had heard about great IRL hackathons, but very few had been to one. They vanished when the pandemic hit, and went missing as the world emerged from the pandemic. Our 2022 summer project was to kick off a hackathon renaissance, together with Hack Clubbers.
 
 To do this, we hosted the first [high-school hackathon](https://twitter.com/hackclub/status/1556433548361338881) in San Francisco since 2020, [open sourced](https://github.com/hackclub/assemble) the entire event & [launched a series of supports](https://hackclub.com/hackathons/) for high school hackathon organisers based on our experience.
 
@@ -56,7 +56,7 @@ Our general principle when event designing was to place ourselves in the shoes o
 
 ## 🫂 The Attendees
 
-There's only so much organisers can do along to make a wonderful hackathon, it is the attendees who bring a hackathon alive. As an organiser, your role in this process is to make sure everyone who needs to hear about your hackathon does, to convert these potential participants into attendees, to make sure they're all set for the event and then to inspire them to embrace the spirit of the hackathon. At the same time, you may choose to invite non-high schoolers to mentor and talk with the attendees. At Assemble, we wanted to make sure such relationships were casual and human, an approach you can read more about [here](). 
+There's only so much organisers can do along to make a wonderful hackathon, it is the attendees who bring a hackathon alive. As an organiser, your role in this process is to make sure everyone who needs to hear about your hackathon does, to convert these potential participants into attendees, to make sure they're all set for the event and then to inspire them to embrace the spirit of the hackathon. At the same time, you may choose to invite non-high schoolers to mentor and talk with the attendees. At Assemble, we wanted to make sure such relationships were casual and human, an approach you can read more about [here]().
 
 [Read more in `/the-attendees` ➚](/the-attendees)
 
@@ -64,13 +64,13 @@ There's only so much organisers can do along to make a wonderful hackathon, it i
 
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fbank-shields.hackclub.com%2Forganizations%2Fassemble%2Fbalance)](https://bank.hackclub.com/assemble)
 
-Assemble had a budget of \$75,000, that's a large budget for a high school hackathon. HS hackathon budgets can range anywhere from \$500 to \$75,000. Whatever your budget is, you'll find a similar set of expenses will arise between all hackathons. Every expense made for Assemble has been open sourced [here](https://bank.hackclub.com/assemble) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427). As an organiser, you'll need to raise money, create an itemized budget (which accounts for the unexpected) and then spend the money raised as planned. 
+Assemble had a budget of \$75,000, that's a large budget for a high school hackathon. HS hackathon budgets can range anywhere from \$500 to \$75,000. Whatever your budget is, you'll find a similar set of expenses will arise between all hackathons. Every expense made for Assemble has been open sourced [here](https://bank.hackclub.com/assemble) through Hack Club Bank's [transparency mode](<https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427>). As an organiser, you'll need to raise money, create an itemized budget (which accounts for the unexpected) and then spend the money raised as planned.
 
 [Read more in `/the-budget` ➚](/the-budget)
 
 ## 📌 The Venue
 
-Since the pandemic began, finding a venue has became by far the most challenging aspect of organising a hackathon. Assemble was hosted across two floors in Figma's San Francisco office, situated in the Phelan Building on Market Street. Getting there took almost 40% of the time spent organising the event, however, when the event rolled around it was well and truly worth it. Figma's space was creatively inspiring and provided the perfect home for Assemble. As an organiser, you'll need to make pitches to potential venues, convince a venue to buy into your event, set up the venue for success and finish by making the venue provider feel appreciated.
+Since the pandemic began, finding a venue has became by far the most challenging aspect of organising a hackathon. Assemble was hosted across two floors in Figma's San Francisco office, situated in the [Phelan Building](https://en.wikipedia.org/wiki/Phelan_Building) on Market Street. Getting there took almost 40% of the time spent organising the event, however, when the event rolled around it was well and truly worth it. Figma's space was creatively inspiring and provided the perfect home for Assemble. As an organiser, you'll need to make pitches to potential venues, convince a venue to buy into your event, set up the venue for success and finish by making the venue provider feel appreciated.
 
 [Read more in `/the-venue` ➚](/the-venue)
 
@@ -86,7 +86,7 @@ The majority of work on Assemble was done in a month, from July 5th to August 5t
 
 [😫 Issue #2: Everything Gets Really Difficult Really fast, July 15th](updates/2.md)
 
-[👣 Issue #3: Gaining My Footing, July 24th](updates/3.md) 
+[👣 Issue #3: Gaining My Footing, July 24th](updates/3.md)
 
 [🎉 Issue #4: Starting To See Light At The End of The Tunnel, July 30th](updates/4.md)
 
@@ -110,12 +110,12 @@ The majority of work on Assemble was done in a month, from July 5th to August 5t
 
 We've previously ran other summer projects, learn more about them:
 
-| Year | Project                                                        | Description                                                                                                                                                                                                                                                                           |
-| ---- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022 | [Assemble](https://assemble.hackclub.com)                       | _This repo!_ |
-| 2021 | [The Hacker Zephyr](https://github.com/hackclub/the-hacker-zephyr)                       | A cross-country hacker adventure on a train! ([repo](https://github.com/hackclub/the-hacker-zephyr)) ([finances](https://bank.hackclub.com/zephyr))                                                                                                                                                                                                                                                                           |
-| 2020 | [Summer of Making](https://summer.hackclub.com)                | $50k in hardware donations to teen hackers around the world + the creation of [Scrapbook](https://scrapbook.hackclub.com) ([code](https://github.com/hackclub/scrapbook)) ([finances](https://bank.hackclub.com/summer-of-making))                                                                                                                  |
-| 2019 | [Flagship Summit](https://flagship.hackclub.com)               | IRL meetup of high school hackathon organizers and coding club leaders ([photos](https://photos.google.com/share/AF1QipO3hb2mN-Q16icE-M16d-06uHyXLmvd3Rw6b_f_oosfAX9SnOvnouPOyO79P7pR7Q?key=anphZTNFUERPWXV3YnJQV2VzVVVFMFFVcGRDc3hB))                                                |
-| 2018 | [Hack Club Bank](https://hackclub.com/bank/)                   | We built and launched the first version of Hack Club Bank (read the [1st](https://medium.com/hackclub/hack-club-bank-a-bank-for-student-hackers-e5d894ea5375) and [2nd](https://medium.com/hackclub/hack-club-bank-is-now-live-for-everyone-including-you-884f7f54836f) announcement) |
-| 2016 | [Hack Camp](https://github.com/hackclub/camp/tree/master/2016) | Summer camp / further writing & testing workshops                                                                                                                                                                                                                                     |
-| 2015 | [Hack Camp](https://github.com/hackclub/camp/tree/master/2015) | Summer camp / testbed for Hack Club's first [workshops](https://workshops.hackclub.com) ([content](https://github.com/hackclub/hackclub/tree/main/workshops#readme))([code](https://github.com/hackclub/workshops))                                                                   |
+| Year | Project                                                            | Description                                                                                                                                                                                                                                                                           |
+| ---- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022 | [Assemble](https://assemble.hackclub.com)                          | _This repo!_                                                                                                                                                                                                                                                                          |
+| 2021 | [The Hacker Zephyr](https://github.com/hackclub/the-hacker-zephyr) | A cross-country hacker adventure on a train! ([repo](https://github.com/hackclub/the-hacker-zephyr)) ([finances](https://bank.hackclub.com/zephyr))                                                                                                                                   |
+| 2020 | [Summer of Making](https://summer.hackclub.com)                    | $50k in hardware donations to teen hackers around the world + the creation of [Scrapbook](https://scrapbook.hackclub.com) ([code](https://github.com/hackclub/scrapbook)) ([finances](https://bank.hackclub.com/summer-of-making))                                                    |
+| 2019 | [Flagship Summit](https://flagship.hackclub.com)                   | IRL meetup of high school hackathon organizers and coding club leaders ([photos](https://photos.google.com/share/AF1QipO3hb2mN-Q16icE-M16d-06uHyXLmvd3Rw6b_f_oosfAX9SnOvnouPOyO79P7pR7Q?key=anphZTNFUERPWXV3YnJQV2VzVVVFMFFVcGRDc3hB))                                                |
+| 2018 | [Hack Club Bank](https://hackclub.com/bank/)                       | We built and launched the first version of Hack Club Bank (read the [1st](https://medium.com/hackclub/hack-club-bank-a-bank-for-student-hackers-e5d894ea5375) and [2nd](https://medium.com/hackclub/hack-club-bank-is-now-live-for-everyone-including-you-884f7f54836f) announcement) |
+| 2016 | [Hack Camp](https://github.com/hackclub/camp/tree/master/2016)     | Summer camp / further writing & testing workshops                                                                                                                                                                                                                                     |
+| 2015 | [Hack Camp](https://github.com/hackclub/camp/tree/master/2015)     | Summer camp / testbed for Hack Club's first [workshops](https://workshops.hackclub.com) ([content](https://github.com/hackclub/hackclub/tree/main/workshops#readme))([code](https://github.com/hackclub/workshops))                                                                   |
