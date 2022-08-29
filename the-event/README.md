@@ -1,4 +1,3 @@
-##### 📆 The Event
 # Table of Contents
 
 | Document | Description |
