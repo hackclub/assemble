@@ -4,12 +4,12 @@
 
 Organising a hackathon is a mixture of absolute chaos, creativity, fun and madness. Whilst organising Assemble, I wrote weekly journals to document how bloody tough running a hackathon can get but also how fun it can be. Together they tell the story of how Assemble went from an idea to an event for 175 hackers.
 
-- [Issue #1, July 8th](updates/1.md)
-- [Issue #2, July 15th](updates/2.md)
-- [Issue #3, July 24th](updates/3.md)
-- [Issue #4, July 30th](updates/4.md)
-- [Issue #5, August 5th](updates/5.md)
-- [Issue #6, August 13th](updates/6.md)
+- [Issue #1, July 8th](1.md)
+- [Issue #2, July 15th](2.md)
+- [Issue #3, July 24th](3.md)
+- [Issue #4, July 30th](4.md)
+- [Issue #5, August 5th](5.md)
+- [Issue #6, August 13th](6.md)
 
 Enjoy,
 
