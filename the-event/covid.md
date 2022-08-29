@@ -1,6 +1,6 @@
 # COVID-19
 
-> Below is the COVID-19 policy we adopted at Assemble! It was written to keep attendees safe whilst also being practical. To the best of our knowledge (after contact tracing), there was no COVID-19 transmission at Assemble.
+> Below is the COVID-19 policy we adopted at Assemble. It was written to keep attendees safe whilst also being practical enough for us to implement. To the best of our knowledge (after contact tracing), there was no COVID-19 transmission at Assemble.
 
 - [COVID documentation](#covid-documentation)
   - [Before the Hackathon](#before-the-hackathon)
