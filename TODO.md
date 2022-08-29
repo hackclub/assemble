@@ -25,7 +25,7 @@
 - [ ] Swag - Hugo
   - [ ] PCB Badges - Hugo
   - [ ] Stickermule - Hugo
-  - [ ] Keychains - Ella
+  - [x] Keychains - Ella
 - [ ] Run of Show - Sam
 - [ ] Schedule - ??
 - [ ] Sleeping - Sam
