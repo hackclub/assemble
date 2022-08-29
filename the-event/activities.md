@@ -37,3 +37,10 @@ More than 50% of our attendees had flown into San Francisco, it'd be mean for us
 ## Food Scavenger Hunt
 
 ## Disco (w/ Lux)
+
+Everyone loves music, what's even better is Hack Clubber-made music! @Lux, Hack Clubber in CA, put together a synthwave set and performed it live at Assemble in front of everyone. Words can't describe how special it was.
+
+https://user-images.githubusercontent.com/39828164/187209505-c2765589-a83f-436a-b92e-029f47196037.MOV
+
+I would 100% a music-related side activity.
+
