@@ -2,6 +2,8 @@
 
 Assemble provided five meals to attendees: two dinners, two breakfasts and one lunch. We used a variety of methods to deliver these meals. The dinners were catered by restaurants. The breakfast were assembled from items purchased from supermarkets. For the lunch, we provided attendees money to go buy their own lunch on a scavenger hunt. We also provided snacks & drinks, purchased from supermarkets. Our venue (Figma) also kindly provided us a full pantry of snacks & drinks.
 
+<img width="500" alt="Screenshot 2022-09-03 at 7 13 08 PM" src="https://user-images.githubusercontent.com/39828164/188267838-8344b135-8895-4121-8b83-66c7150a1155.png">
+
 ## Dinners
 
 On the first day, we served Vietnamese food from [Perilla Vietnamese Cuisine](https://www.perilla525.com) in San Francisco. We choosed it because it was Pranav's (from the organising team) favourite resturant in the city & it didn't disappoint! Attendees really enjoyed the noodles & rolls. Many of them were expecting pizza so it was a pleasant surprise!
@@ -23,6 +25,8 @@ Each morning, we kept breakfast simple. Around 60% of attendees ate breakfast an
 ## Food Scavenger Hunt (Lunch)
 
 We turned lunch into a fun activity, read more on [`/the-event/fun.md#food-scavenger-hunt`](/the-event/fun.md#food-scavenger-hunt)!
+
+<img src="https://user-images.githubusercontent.com/39828164/188268068-daeaf879-67fc-418d-ab5a-44d65749e7f4.JPG" width="500px">
 
 ## Snacks & Drinks
 
