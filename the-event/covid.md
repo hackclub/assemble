@@ -17,9 +17,9 @@ Documentation and implementation is handled by the **Covid working group**. If y
 
 | name          | github       | email                       |
 | ------------- | ------------ | --------------------------- |
-| max wofford   | @maxwofford  | max@hackclub.com            |
-| sam poder     | @sampoder    | sam@hackclub.com            |
-| charlie welsh | @tetraoxygen | charlie@summer.hackclub.com |
+| Max Wofford   | @maxwofford  | max@hackclub.com            |
+| Sam Poder     | @sampoder    | sam@hackclub.com            |
+| Charlie Welsh | @tetraoxygen | charlie@summer.hackclub.com |
 
 ## Before the Hackathon
 
