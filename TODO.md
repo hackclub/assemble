@@ -14,22 +14,21 @@
 
 - [x] README.md
 - [ ] Workshops - Ishan
-- [ ] Activities README - Sam
+- [x] Activities README - Sam
   - [x] "Fun Boss" - Sam
   - [ ] CTF - Bash
-- [ ] Opening Ceremony - Sam
+- [x] Opening Ceremony - Sam
 - [x] Judging & The Closing Ceremony - Copy from planning documents & adapt by Ian
-- [ ] Prizes - Hugo
+- [x] Prizes - Hugo
   - [ ] Plaques - Ella
-- [ ] Communication - Sam
+- [x] Communication - Sam
 - [ ] Swag - Hugo
   - [ ] PCB Badges - Hugo
   - [ ] Stickermule - Hugo
   - [x] Keychains - Ella
-- [ ] Run of Show - Sam
-- [ ] Schedule - ??
+- [x] Run of Show - Sam
 - [ ] Sleeping - Sam
-- [ ] Food - Pranav
+- [x] Food - Pranav
   - [ ] Food Scavenger Hunt - Dev
 
 🫂 The Attendees 
