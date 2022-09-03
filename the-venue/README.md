@@ -7,4 +7,4 @@
 | 💬 [`pitching.md`](pitching.md) | How we pitched Assemble to potential venues. | 
 | 🙏 [`thanking.md`](thanking.md) | How we thanked Figma for their generosity. | 
 
-[← Go Back](/README.md)
+[← Go Back](/)
