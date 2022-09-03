@@ -8,7 +8,7 @@ Most of our formal communication before the event came through email, with infor
 
 ### Emails
 
-#### Initial Email on Registration
+#### 🎉 Thank You for Registering for Assemble 2022
 
 Hey hacker,
 
@@ -26,7 +26,7 @@ With gratitude,
 
 @sampoder
 
-#### Initial Email on Registration (Post-Waitlist)
+#### 🎉 Thank You For Joining The Assemble Waitlist!
 
 Hey hacker,
 
@@ -36,7 +36,7 @@ With gratitude,
 
 @sampoder
 
-#### Travel Stipend Acceptance
+#### Assemble: See you in San Francisco!
 
 Hey {Full Name}, 
 
@@ -62,7 +62,7 @@ Kindly,
 
 Sam and Assemble Team
 
-#### Two-Weeks Out Email (w/ Main Logistics Details)
+#### Logistics Update From The Assemble Team
 
 👋 Hello!
 
@@ -195,7 +195,7 @@ Looking forward to meeting you all,
 
 Sam with the Assemble Team
 
-#### One Week Out
+#### We're one week out from Assemble!
 
 <p>G’day!</p>
 <p>Sam here, from the Hack Club team. We’re a week out from Assemble and we’re super excited to be having you there! Just reaching out as a reminder to complete the following two tasks before midnight on Tuesday the 2nd of August (EST):</p>
@@ -210,6 +210,160 @@ Sam with the Assemble Team
 <p><img alt="" src="https://cloud-dj4vl9j42-hack-club-bot.vercel.app/020220723_212232.jpg" style="width: 300px; height: 169px;"></p>
 <p><em>(drawing is not a career path for me, sadly)</em><br>
 &nbsp;</p>
+
+#### An Important Reminder About Assemble (This Weekend)!
+
+👋 Hello!
+
+There’s only four sleeps to Assemble! This is an important reminder that you still need to submit either your proof of full vaccination (through  [ticketing.assemble.hackclub.com](http://ticketing.assemble.hackclub.com/)), event liability waiver (through Docusign) or both before midnight on Tuesday the 2nd of August (EST). The instructions to do so are as follows:
+
+**Submit proof of full vaccination:** please visit the unique URL (begins with  [https://ticketing.assemble.hackclub.com](https://ticketing.assemble.hackclub.com/)) sent in an email on the 22nd of June (don't have it? send a reply and we'll get it to you!), set a password and upload an image that proves your full vaccination status (eg. a vaccine card).
+
+**Complete the Event Liability Release:**  please refer to the email from “Hack Club via DocuSign” and complete the liability waiver by following the instructions it outlines. Alternatively, if DocuSign is not functioning, please sign the attached PDF copy and send it assemble@hackclub.com.
+
+If you’re facing any difficulties or we've made a mistake, please drop me an email ([sam@hackclub.com](mailto:sam@hackclub.com))! More than happy to help at anytime :D
+
+Best,
+
+Sam
+
+_PS: We (the entire HQ team) fly out to SF on Wednesday & Thursday, for now this is where we’re working from (more specifically, where I’m writing this email from) in Shelburne, Vermont!_
+
+![](https://cloud-cdzp3mmyb-hack-club-bot.vercel.app/0whatsapp_image_2022-08-01_at_9.25.51_am.jpeg)
+
+#### 👋 Hi! I'm Rick, your travel point of contact for Assemble.
+
+Good morning/afternoon/evening,
+
+Rick from Hack Club here. I’m going to be available to help in the unlikely case that travel plans go off-track.
+
+To help you avoid and deal with any issues yourselves, we’re sending along this tip sheet. We highly recommend you save this on your phone or print it out.
+
+Our main advice is to prepare well for travel and advocate for yourself quickly if you miss a flight. If you’re really stuck and can’t find a solution, reach out to your parents ...and then reach out to me if you’re still stuck.
+
+Don’t panic with late arrivals; though–you’ll be able to get into Assemble no matter what time you arrive! (Do let me know if you’ll arrive after 11pm, when our staff at SFO airport will be leaving.)
+
+Have a great time in SFO!
+
+**Rick**  
+**Voice/Text:** REDACTED
+**Slack:** @rick  
+_I’ll be on call to help on Friday the 5th as you’re flying in and Sunday the 7th as you’re flying out. If for some reason you can’t reach me, leave a message and/or try: Kara @kara on slack or REDACTED or Sam Poder @sampoder on Slack or REDACTED._
+
+#### Tomorrow Assemble begins! (Aug 5th)
+
+👋 Hey there!
+
+I just spent my first day in SF setting up at Figma HQ with the team! It’s such a magical space and we're all so excited to welcome you to it and meet IRL in SF.
+
+![](https://cloud-g9q5guad4-hack-club-bot.vercel.app/0img_8409.jpg)
+
+_Running errands in SF with some of the team!_
+
+If you’re receiving this email, that means we’ve received both your event liability waiver and proof of vaccination. Thank you!
+
+**The final step is to upload your proof of a negative COVID-19 test result.**
+
+If you are travelling by plane, we require you to take and submit the results of your at home test within the 24 hours before your flight to SF’s departure time.
+
+For those who are not travelling by plane, we require you to take and submit the results of your at home tests within the 24 hours before the event’s start time (6PM PST, August 5th).
+
+This can be done on  [ticketing.assemble.hackclub.com](http://ticketing.assemble.hackclub.com/), the same place where you submitted your vaccination status. After we receive & review your test result submission, you’ll receive a confirmation email from us with a QR code that can be used to check-in to the venue. Please screenshot and save this QR code, it can also be added to your Apple Wallet.
+
+Also a reminder for those travelling by plane, we will be having a BART chaperoning service with Hack Club staff from SFO to Market Street running on Friday 5th of August from 8AM to 11PM. To join this group, please meet at the Starbucks in the International Arrivals Section. Look out for the red bandanas and Hack Club stickers!
+
+For those arriving domestically, to get to the Starbucks, you’ll need to take the AirTrain to “International Terminal G” (make sure you don’t get off at “International Garage G” and then take a short walk downstairs to arrivals, which we’ve documented in this (slightly hacky) video: https://www.youtube.com/watch?v=SLRcRjxbQmU. For international arrivals, Starbucks will be on your left as you exit the terminal.
+
+Thank you so much for your support in keeping Assemble safe,
+
+Sam
+
+PS: check out my plane for the first leg of my journey to SF!
+
+![](https://cloud-5j1txebm8-hack-club-bot.vercel.app/020220803_060347.jpg)
+
+#### Assemble begins today!
+
+👋 Hey there!
+
+It’s almost time! We’ve been spending the past two days setting up and we’re so excited to welcome you Assemble at Figma on Market Street.
+
+If you haven’t already, don’t forget to test yourself for COVID-19 and upload your negative result to  [ticketing.assemble.hackclub.com](https://ticketing.assemble.hackclub.com/)! After doing so, we'll review it and you'll recieve an email with a QR code (for check-in) from us. Please also re-familiarise yourself with the logistical details emailed in our original email (attached!). It includes instructions for travelling from the airport and emergency contact information for the event.
+
+On a more personal note, yesterday I got to meet five Hack Clubbers, and today I'll get to meet 150+ (including yourself!). I couldn't be more excited (alongside feeling a series of other emotions) :D At the event, let's make sure to meet up and get to know each other more!
+
+Hackers, assemble!
+
+Sam
+
+PS: here’s our team hacking away in the Figma office late last night! We can't wait to hack with you.
+
+![](https://cloud-6an09t1t0-hack-club-bot.vercel.app/0image_from_ios.jpg)
+
+#### [Important Update] How to get into the Venue Building for Assemble
+
+Hey there!
+
+We have a small change as to how you will be entering the Figma space in the Phelan building. An email will be coming from their building security at 5:00 PM with a link. This allows you entry and exit through the front door from 6:00 PM until curfew at 10:00 PM. (Note: if your flight is delayed and your arrival is post 10:00 PM, don’t worry— we’ll get you in!).
+
+**This link is only good until curfew. A new one will be generated Saturday and Sunday mornings and emailed to you.**
+
+There is also an iPad for sign-in in the lobby that you can use, but there is only one, so to avoid bottlenecks please use the link provided.
+
+If you have any trouble, the security knows of our event and has a list of all attendees.
+
+Hack Club will have staff in the lobby from 6:00 PM to 7:30 PM assisting anyone who needs it as well.
+
+If you have any trouble, DM me on slack [@kara](https://hackclub.slack.com/team/U032A2PMSE9) or text or call _REDACTED_
+
+Best, Kara
+
+#### Thank you for joining us at Assemble! ❤️
+
+
+👋 Hello again!
+
+To start, I just wanted to say thank you. Thank you for taking your weekend to come to Assemble! I love how, with movie nights, Jackbox games and more, everyone made the event their own. The talent show acts, the lightning talks and the workshops presented over the weekend were especially remarkable.
+
+Assemble was magical. You made that happen. For that, thank you.
+
+![](https://cloud-rggqmbbnn-hack-club-bot.vercel.app/0image-3.png)
+
+We've created a shared Google Photos Album to look back on the weekend and to share photos from your adventures: [https://hack.af/assemble-album](https://hack.af/assemble-album)! If you haven't already added them, it'd be lovely to see your photos from Assemble on there. The documentary made by Kevin, the filmmaker, will come out in a few weeks and we’ll send an email with it.
+
+Assemble is only the beginning, we want this to be a special semester of high school hackathons and reestablish the culture around them being IRL.
+
+We want you to **be a part of the [hackathon renaissance](https://hackclub.com/hackathons/)** and announced:
+
+1.  A $500 grant once you have a venue for your hackathon, provided by Hack Club in partnership with  [_FIRST_  Robotics](https://www.firstinspires.org/).
+    
+2.  All fees waived on  [Hack Club Bank](https://hackclub.com/bank/)  this semester for HS hackathons. That means all the money you raise goes directly towards your hackathon.
+    
+3.  When you list your hackathon on  [hackathons.hackclub.com](https://hackathons.hackclub.com/), it’ll be shared with local robotics teams through  _FIRST_.
+    
+
+We'd also love to have you all **further involved in Hack Club**:
+
+-   If you missed Sprig, the custom open source Hack Club game console,  [join the Slack](https://hackclub.com/slack/?continent=North%20America)  and the  [#sprig channel](https://app.slack.com/client/T0266FRGM/C02UN35M7LG/activity)  to help out with development and test the game engine before consoles start shipping in a few weeks.
+    
+-   Applications to start a Hack Club this semester are now open at  [hackclub.com](https://hackclub.com/)  ([@rajan](http://github.com/rajanwastaken)  [overhauled the site just before Assemble!](https://github.com/hackclub/apply/pull/68))
+    
+-   Even if you’re not starting a hackathon and are instead running an open source project, a Hack Club or robotics team, or another nonprofit project that needs 501(c)(3) status and an easy way to manage funds: Hack Club Bank works with you and you can sign up at  [https://hackclub.com/bank/](https://hackclub.com/bank/).
+    
+-   [Join the Slack!](https://hackclub.com/slack/)  The Slack is like Assemble, 24/7.
+    
+
+Last but not least, **Assemble is being open sourced: [https://github.com/hackclub/assemble](https://github.com/hackclub/assemble)!** I've been [journaling the process of "assembling" Assemble](https://github.com/hackclub/assemble/tree/main/updates)  over the past few weeks and just published my final journal which reflects on the weekend. You can  [read it here](https://github.com/hackclub/assemble/blob/main/updates/6.md).
+
+As we develop the repository, we'd love your support through issues & pull requests. Specifically, I'd love to hear from you about what you'd like to see included in the repository - please reply directly to this email if you have ideas!
+
+With gratitude and until next time,
+
+Sam & the Assemble team
+
+![](https://cloud-r5fcsc8nv-hack-club-bot.vercel.app/020220812_201141.jpg)
+
+_Sunset over Shelburne Farms, Vermont._
 
 ### Parent Q&As
 
