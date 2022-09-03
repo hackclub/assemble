@@ -14,13 +14,9 @@ If we have the right prompt, we should see everyone interested in what they're b
 
 The prompt goes hand-in-hand with [judging](judging.md).
 
-## Proposal
+### Introducing the Prompt
 
-Judging subteam: Ishan, Ian, Max
-
-### Prompt tournament
-
-We'll change wording to 'prompt' instead of 'theme' since we simply want these to inspire ideas.
+We changed the wording to 'prompt' instead of 'theme' since we simply want these to inspire ideas.
 
 One week before the hackathon, attendees are sent a simple, one question form for their prompt idea. The final prompt will be chosen from all of the responses using a tournament-like system, where four prompts 'compete' at a time and the winning prompt moves to the next stage.
 
@@ -31,7 +27,7 @@ One week before the hackathon, attendees are sent a simple, one question form fo
 ```
 _An example scenario with 16 total prompt ideas (the |s represent ideas)_
 
-At the end of the opening ceremony, attendees are directed to take out their phones and go to https://assemble.hackclub.com/prompt (proposal URL, not live). The website is a site with 4 community-contributed prompt choices. Let's pretend we have an example scenario where there are 16 total prompt ideas. Such a scenario would involve two stages of voting, as the poorly-done ASCII 'art' illustrates. For the first round, everyone is put into four groups (one group for each bunch of prompts at the bottom level), with each group voting for the best of their four choices (selected by majority). The next stage has only 4 choices left, so everyone votes on this final stage, and the final prompt is selected by majority. 
+At the end of the opening ceremony, attendees are directed to take out their phones and go to https://assemble.hackclub.com/prompt. The website is a site with 4 community-contributed prompt choices. Let's pretend we have an example scenario where there are 16 total prompt ideas. Such a scenario would involve two stages of voting, as the poorly-done ASCII 'art' illustrates. For the first round, everyone is put into four groups (one group for each bunch of prompts at the bottom level), with each group voting for the best of their four choices (selected by majority). The next stage has only 4 choices left, so everyone votes on this final stage, and the final prompt is selected by majority. 
 
 If there were 64 choices, there would have been a larger bottom stage with 16 different groups (general rule is n/4). When moving from that stage to the stage with 16 choices, people would be reassigned a group randomly. Non power-of-4 numbers can be handled by just having fewer choices sometimes.
 
@@ -45,4 +41,4 @@ Sam prompt ideas: "down under", "javascript hell". idea: glasses with arduino so
 
 "speed" could evoke devtool building or assembly/C programming, I gave Sam "unnecessarily complex": "to-do list app but it's 6 factor authentication, and your list items have to be base64 encoded wait no emoji encoded and then when you want to check something off, you ... machine learning to see that you do 20 push ups and then it needs an email confirmation from your boss that you've done the task and finally you have to say what the task was to make sure you remember what you did. oh and meanwhile it's in the format of an nsa dashboard like you see on hackertyper yeah?" _wow, sam!_
 
-Similar idea used in the past: https://ldjam.com/events/ludum-dare/50/theme
+Similar idea used in the past: https://ldjam.com/events/ludum-dare/50/theme/
