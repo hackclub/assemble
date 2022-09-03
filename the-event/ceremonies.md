@@ -26,4 +26,20 @@ And with that said, we ran [the prompt segment](prompt.md#selecting-a-prompt)!
 
 ## Closing Ceremony
 
-> Coming soon!
+The closing ceremony had three parts: the "pitches", prize-giving & goodbyes.
+
+## The "Pitches"
+
+Before going into demos, we challenged every team to come up to the stage for thirty seconds are pitch why their project was the shittiest & the most useless with no laptops allowed. It produced some absolutely hilarious moments! We also had a half-time break of pitches, to run an Orpheus Balance Challenge in which participants had to a balance an Orpheus Plushie on their head as they struggled through bizarre challenges.
+
+After all the pitches were done, we set people off to go demo their projects! Read more about that in `judging.md`.
+
+## Prize Giving
+
+Once we'd received all the emoji reactions from Scrapbook & assigned the winners of each prize based on them, we invited everyone back to the Closing Ceremony. We got the ball rolling because there were a lot of prizes to give out, we'd announce the team who won the prize & invited them up to receive their prizes (only taking breaks for applause). A big queue formed which was a slight problem, but we got all the prizes out! Whilst that was happening, we noticed that we'd have a ton of leftover prizes & started just handing out the smaller prizes (eg. Hack Cubes) out to everyone. In the end, everyone got a prize!
+
+We then proceed to do a big team cleanup.
+
+## Goodbyes
+
+We finished off the event by bringing everyone together. Zach gave a beautiful goodbye speech that brought the event to a close & we then took one big group photo! And that was the end, what a weekend.
