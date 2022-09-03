@@ -34,7 +34,7 @@ And with that said, we ran [the prompt segment](prompt.md#selecting-a-prompt)!
 
 The closing ceremony had three parts: the "pitches", prize-giving & goodbyes.
 
-## The "Pitches"
+### The "Pitches"
 
 <img width="500" alt="Screenshot 2022-09-03 at 7 05 38 PM" src="https://user-images.githubusercontent.com/39828164/188267604-d56e9aed-c26f-410d-920b-7adde4e7a065.png">
 
@@ -44,13 +44,13 @@ Before going into demos, we challenged every team to come up to the stage for th
 
 After all the pitches were done, we set people off to go demo their projects! Read more about that in `judging.md`.
 
-## Prize Giving
+### Prize Giving
 
 <img width="500" alt="Screenshot 2022-09-03 at 7 07 34 PM" src="https://user-images.githubusercontent.com/39828164/188267667-97459b11-5e40-43f5-9837-fc16e340602e.png">
 
 Once we'd received all the emoji reactions from Scrapbook & assigned the winners of each prize based on them, we invited everyone back to the Closing Ceremony. We got the ball rolling because there were a lot of prizes to give out, we'd announce the team who won the prize & invited them up to receive their prizes (only taking breaks for applause). A big queue formed which was a slight problem, but we got all the prizes out! Whilst that was happening, we noticed that we'd have a ton of leftover prizes & started just handing out the smaller prizes (eg. Hack Cubes) out to everyone. In the end, everyone got a prize! We then proceed to do a big team cleanup.
 
-## Goodbyes
+### Goodbyes
 
 We finished off the event by bringing everyone together. Zach gave a beautiful goodbye speech that brought the event to a close & we then took one big group photo! And that was the end, what a weekend.
 
