@@ -1,16 +1,16 @@
 - [ ] Hack Club Bank Page Super Clean
 - [ ] Finances Breakdown Site/Blog Post
 - [ ] GitHub Repo to be a) comprehensive and b) useful
-  - [ ] Building blocks of the hackathon: budget, judging, venue, 
+  - [ ] Building blocks of the hackathon: budget, judging, venue,
 - [ ] All codebases documented and open
 - [ ] Ship post at the end
 - [ ] Remove `TODO.md`
 
-✨ The Philosophy 
+✨ The Philosophy
 
 - [x] README.md
 
-📆 The Event 
+📆 The Event
 
 - [x] README.md
 - [ ] Workshops - Ishan
@@ -20,7 +20,7 @@
 - [x] Opening Ceremony - Sam
 - [x] Judging & The Closing Ceremony - Copy from planning documents & adapt by Ian
 - [x] Prizes - Hugo
-  - [ ] Plaques - Ella
+  - [x] Plaques - Ella
 - [x] Communication - Sam
 - [ ] Swag - Hugo
   - [ ] PCB Badges - Hugo
@@ -31,7 +31,7 @@
 - [x] Food - Pranav
   - [ ] Food Scavenger Hunt - Dev
 
-🫂 The Attendees 
+🫂 The Attendees
 
 - [x] README.md
 - [ ] Travel Stipends - Sam
@@ -41,14 +41,14 @@
 - [ ] Mentors - Ishan?
 - [ ] Communicating the event's ideals - ??
 
-💸 The Budget 
+💸 The Budget
 
 - [x] README.md
 - [ ] Making a Budget - Sam
 - [ ] Sponsorships - Find Volunteer
 - [ ] Managing Money - Sam
 
-📌 The Venue 
+📌 The Venue
 
 - [x] README.md
 - [ ] Finding A Venue Partner - Belle
