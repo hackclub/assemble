@@ -387,6 +387,6 @@ Airtable has the ability to [send SMSs through Twilio](https://support.airtable.
 
 ### Herders / Verbal Announcements
 
-Lastly, we had the age-old strategy of simply shouting announcements which became a big of a meme:
+Lastly, we had the age-old strategy of simply shouting announcements which became a bit of a meme:
 
 > Probably the most surreal feeling I've experienced this year was knocking out cold for 2-3 hours after a very long day and a half, only to be woken up by a loud booming sam yelling "GOOOOOOD MORNING!!! GOOOOOOOD MORNING TODAY IS SUNDAAAYY IT IS THE BEST DAYYY GOOOOOOOOOOD MORNING!!!" for like 30 minutes
