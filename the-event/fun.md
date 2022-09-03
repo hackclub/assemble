@@ -30,6 +30,8 @@ More than 50% of our attendees had flown into San Francisco, it'd be mean for us
 
 ## The (Un)Talent Show & Lightning Talks
 
+<img width="500" alt="Screenshot 2022-09-03 at 7 24 40 PM" src="https://user-images.githubusercontent.com/39828164/188268237-9b375eef-a80c-488a-a2a2-91f3981fade8.png">
+
 Here's how we described these two events to attendees:
 
 > First, the 🎤 (Un)Talent Show, where you can present or perform anything to your fellow hackers! It’ll be chill and informal, so there’s no pressure. Heck, show us what you’re incredibly bad at (ever seen Ishan shuffle a deck of cards? shudder) Feel free to bring any objects or props, and if you need anything we can help you acquire it!
@@ -37,6 +39,8 @@ Here's how we described these two events to attendees:
 > Second, ⚡ Lightning Talks, where hackers give quick talks about intriguing things in rapid succession. Come up with some slides or present without them. We recommend keeping ‘em short short: about 2-3 minutes. Example ideas: “How bad is PHP?” & “Why pineapple deserves to be on pizza.” (56.5% of you agree according to your registrations).
 
 Whilst implementation was slightly different between the two, the essential idea was the same: to bring together all the attendees and celebrate each other's talents (or un-talents) & interests. To make these two events happen, we released a form for attendees to register interest, then worked with them to make their idea a reality & lastly, did a run-through/rehearsal with them over Zoom. On the day, all we had to do was invite them up on stage & they'd take the show away! 
+
+<img width="500" alt="Screenshot 2022-09-03 at 7 23 51 PM" src="https://user-images.githubusercontent.com/39828164/188268214-431112f6-d703-4c9c-81e5-f53ac2b5641c.png">
 
 ## The CTF (w/ The Organization)
 
@@ -49,3 +53,8 @@ Everyone loves music, what's even better is Hack Clubber-made music! @Lux, Hack 
 https://user-images.githubusercontent.com/39828164/187209505-c2765589-a83f-436a-b92e-029f47196037.MOV
 
 I would 100% a music-related side activity. Music brings everyone together & is something that almost every can enjoy.
+
+<img width="500" alt="Screenshot 2022-09-03 at 7 22 12 PM" src="https://user-images.githubusercontent.com/39828164/188268148-c4b5f0c1-899d-459b-8752-2364024803b9.png">
+
+(_Lux preparing their set at the event!_)
+
