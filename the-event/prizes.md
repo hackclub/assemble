@@ -2,7 +2,7 @@
 
 At Assemble, we kept prizes small & numerous. We wanted attendees to feel motivated to build an awesome project but for the hackathon to remain friendly & collaborative at the same time.
 
-Here are the prizes we offered:
+Here are the prizes we brought to the event to give out:
 
 | Item |Quantity  |
 |--|--|
