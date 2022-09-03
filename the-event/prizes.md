@@ -19,3 +19,5 @@ Here are the prizes we brought to the event to give out:
 |🌝 Assorted NASA Flight Memorabilia  | 8 |
 
 As you can see, we had a ton of prizes! We ended up giving everyone who attended a prize, with the smaller prizes going to those who didn't win an award at the event (we had to reuse some event supplies such as workshops hardware as prizes to cover every attendee). 
+
+<img src="https://user-images.githubusercontent.com/39828164/188268596-a632637e-3462-477d-806f-5132610c20fe.jpg" width="500px" />
