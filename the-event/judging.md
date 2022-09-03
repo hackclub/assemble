@@ -1,68 +1,47 @@
-# Judging process
+# Judging
 
-_or, "what is the end-goal of the event"_
+When planning Assemble, we knew a system for judging and prizes was needed. Judging gives 
+attendees feedback and recognition for their project, and prizes, even if small, provide something 
+to work toward and receive for hard work. With that in mind, we got into the mindset of 
+brainstorming more innovative and fun judging options than what you’d typically find at a 
+hackathon, leaving that as a fallback in case we couldn’t come up with something. 
 
-- [Judging process](#judging-process)
-  - [Intent](#intent)
-  - [Proposal](#proposal)
-    - [Demo cards](#demo-cards)
-    - [Voting](#voting)
-    - [Scrapbook](#scrapbook)
-    - [After judging / after event](#after-judging--after-event)
+Some ideas for judging included, ranked choice, upvoting, and emoji reactions. One of those 
+would be paired with our ideas for demoing projects: either group presentations, speed dating, 
+scrapbook gallery, or science fair style. We ended up deciding on a science fair style 
+demonstration and emoji reaction judging system. The science fair demonstrations allowed 
+attendees to meet face to face, try out projects, and interact, rather than just talking to 1 person 
+at a time or waiting for long demos. The emoji reactions system was also appealing to us, as it 
+provided a way for people to judge projects with personality, rather than categorizing them as 
+good, bad, or somewhere in between.
 
-Judging subteam: Ishan, Ian, Max
+After deciding on judging and presentation systems, we needed a way to pull them together. This 
+is how ship cards were born! The original concept of ship cards included a title, description, 
+image, and collaborators on physical 4x6 photo-paper cards. Each of these would be stationed at 
+their respective project demos, and could be scanned with a QR code or NFC tag allowing 
+attendees to select 5 emojis that best fit a project. They would get printed automatically after 
+every ship. This would all tie into Assemble Scrapbook, one place where all attendees could 
+scrapbook mini updates throughout the event and post a ship once they finish. After the lightning 
+project demos, everyone would be released to start exploring and sharing their projects.
 
-## Intent
+At least, that was the plan. Certain compromises had to be made, such as using cardstock 
+instead of photo paper and printing out the cards at the end instead of automatically. Additionally, 
+some things didn’t go quite right at the event, if they were even finished. Certain components like 
+the printer driver, screenshooting API, and project numbering system weren’t tailored to fit 
+Assemble’s use case and weren’t ready to scale. During the last 3 hours of the event, Assemble 
+Scrapbook received over 15 million database requests. This brought the system entirely offline, as 
+it was built on Vercel Serverless Functions and the Postgres database requests weren’t 
+connection pooled. It took us about 30 minutes to fix just the database request pooling alone. 
 
-Ask any hackathon attendee about judging & they can bring up a negative experience they've had or heard about. That said, judging provides important things to the event such as...
+Once we had Scrapbook back up, it was time to initiate printing! This was a nightmare, given that 
+we had about 45 minutes to send all ship card images to my laptop for printing, cut each card 
+out, and affix an NFC tag to the back. It wouldn’t have been possible without help from Max, 
+Gary, Celeste, and Kognise. The last ship card rolled off of the printer right as lightning demos 
+wrapped up. With everything finally set up and configured, attendees grabbed a ship card for their 
+project and started exploring.
 
-- a goal to work towards
-- a place to ship/demo & "strut your stuff"
-- closure to a long, hard sprint
-- a structure for first-time hackathon goers
-
-## Proposal
-
-We’ll have a science fair “demo period” at the end of the event for 2 hours.
-Before this period, hackers will have posted their projects on scrapbook & picked up their “demo cards” for their shipped projects.
-
-Hackers will go around and see other projects & when they want to vote they’ll scan the demo card for that project.
-
-Starting a little before the 2 hour period ends (~15 min), judges will convene to discuss which prizes to give out.
-
-Some will be pre-defined:
-
-- Most upvoted (1st, 2nd, 3rd)
-- Best game
-- Best beginner
-
-Some will be judge’s choice:
-
-- Most hacky/janky/wack
-- Most cursed
-
-Categories that are chosen by judges should mostly follow the emojis. Judges can choose from a set of plaques we create before the event. Some plaques will have random symbols/logos to give judges flexibility to come up with their own projects. We’ll throw away the unused plaques.
-
-### Demo cards
-
-_Working title_
-
-Has a QR code to a specific scrapbook post. Attendees can pick them up throughout the event after posting a scrap. Should be customized (include scrapbook image + description ideally) so attendees want to take them home. If we have the time we can get nice laser cut plaques that the printed cards go onto.
-
-### Voting
-
-Attendees vote for each other’s projects by scanning their demo cards & being taken to a page on scrapbook for voting. Voting is not started on scrapbook (like scrolling through an index of projects). My votes are anonymous (like the website for scrapbook), but scraps show the total counts for each. The project index lets me sort by reactions, but not see reaction count.
-
-### Scrapbook
-
-We’ll need to add individual pages for each scrap, and make a new type of scrap- the “ship”. Ships will need to have co-authors & a “project name” field.
-
-Other nice-to-haves for admins:
-- A way to see an index of projects sorted by reaction counts
-
-### After judging / after event
-
-A couple things need to change/happen on scrapbook after judging goes out:
-- Emoji counts on index pages show up
-- Move from scrapbook.local to scrapbook.assemble.hackclub.com (both example URLs)
-- Migrate posts from assemble scrapbook to main scrapbook.hackclub.com.
+As the emoji reactions rolled in, we paired projects with ideal awards. For example, the project 
+with the most upvotes receive the Most Upvoted award! And other projects like The Big Brain 
+award and Most Polished Project were determined by the number of emojis related to the 
+respective topics, like a brain or sparkles. Then we presented each group with their awards, and 
+concluded Assemble with a short talk from Sam and Zach and a group photo.
