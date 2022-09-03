@@ -92,7 +92,7 @@ _If you are 18 or over:_
 
 In the next hour you will receive an email with a DocuSign Waiver called **“Please Sign: Hack Club Assemble Event Liability Waiver”**. Please return it to us via DocuSign by **midnight EST on Tuesday, 2nd August** or we won’t be able to accommodate you at the hackathon.
 
-#### Emergency Contacts
+##### Emergency Contacts
 
 In the unlikely event that you encounter an emergency during your travel or time at Assemble, we have 3 Hack Club Staff members available. Add these contacts to your phone. In the meantime, please send all questions & concerns to assemble@hackclub.com or use our #assemble channel on Slack.
 
@@ -108,7 +108,7 @@ _Rick Blount (Emergency Contact for Flight Issues)_
 
 rick@hackcub.com ~ _REDACTED_ (phone) or @rick on Slack
 
-#### Proof Of Vaccination & A Negative Covid-19 Test
+##### Proof Of Vaccination & A Negative Covid-19 Test
 
 We want to ensure we are all doing our utmost to keep everyone safe and healthy during Assemble. We must receive **proof of full vaccination as defined [by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html) by midnight EST on Tuesday, 2nd August** or you will not be allowed to enter the premises.
 
@@ -128,7 +128,7 @@ Password Code
 
 Once the Assemble team has proof of both your vaccination and a negative test, you will receive a ticket over email and on [ticketing.assemble.hackclub.com](https://ticketing.assemble.hackclub.com/). This ticket must be presented at check-in.
 
-#### Suggested Packing List
+##### Suggested Packing List
 
 Here’s what to bring:
 
@@ -147,21 +147,21 @@ And for international travelers, we also strongly recommend:
 <li> A printed copy of all of your travel documents. This includes your visa letter (if applicable), your proof of vaccination, your flight tickets, and your parental waiver (if under 18). Research your airline’s specific requirements based on your place of departure, airline and nationality.</li>
 </ul>
 
-#### Traveling To Figma’s San Francisco Office
+##### Traveling To Figma’s San Francisco Office
 
 Figma's office is located at: [760 Market St, San Francisco, CA 94102](https://goo.gl/maps/E3218Y7c9ZJU7AWa9) (near Union Square).
 
 The building is locked by security, and attendees will not be permitted to enter before 6pm on Friday Aug 5th. If you arrive before 6pm, there will be Hack Club staff at [Yerba Buena Gardens](https://yerbabuenagardens.com/) from 10am to 6pm on Friday. Yerba Buena is a beautiful park near to the venue. It’s a great place to chill and hang out and meet other attendees until the venue door is open.
 
-##### Checking in to the Venue
+###### Checking in to the Venue
 
 In the Figma lobby on the ground floor, you will first be required to sign-in to the building. Security will have everyone’s name on a list, and there will be someone from Hack Club there to welcome you & guide you to the 5th floor where Assemble is!
 
-##### Local Participants & Early Arrivers (arriving before 8AM on Friday, August 5th)
+###### Local Participants & Early Arrivers (arriving before 8AM on Friday, August 5th)
 
 Figma’s offices are located on Market Street, near Union Square. We recommend taking BART to Powell Street and then walking two blocks down Market Street to Figma’s offices. Google Maps, Apple Maps & [bart.gov/planner](https://www.bart.gov/planner) are useful tools for directions and train arrival times.
 
-##### Travelers Arriving By Plane (arriving between 8AM & 5PM on Friday, August 5th)
+###### Travelers Arriving By Plane (arriving between 8AM & 5PM on Friday, August 5th)
 
 Those traveling to San Francisco on the day of the event are welcome to make their own way to the venue. We’ll also be offering supervised BART transportation to the venue. A Hack Club staff member will be waiting at the AirTrain platform next to the BART station [(view this map)](https://www.bart.gov/sites/default/files/documents/station/san-francisco-international-airport-station-map.pdf) from 8am to 12 midnight on Friday. You’ll be able to take the BART with them to Market Street and then explore the surrounding area or head to Yerba Buena.
 
@@ -177,7 +177,7 @@ For those who have late flights, we’ll have an outdoor gathering place (again 
 
 We will have Hack Club staff at the San Francisco International Airport from 12:45pm to 10pm on Sunday to support you. They will be stationed at the AirTrain platform next to the SFO BART Station.
 
-#### The (Un)Talent Show & Lightning Talks
+##### The (Un)Talent Show & Lightning Talks
 
 We have two fun side activities that we’d love to have the community involved in!
 
@@ -194,6 +194,22 @@ Thank you for taking the time to read this important email fully.
 Looking forward to meeting you all,
 
 Sam with the Assemble Team
+
+#### One Week Out
+
+<p>G’day!</p>
+<p>Sam here, from the Hack Club team. We’re a week out from Assemble and we’re super excited to be having you there! Just reaching out as a reminder to complete the following two tasks before midnight on Tuesday the 2nd of August (EST):</p>
+<p><strong>Submit proof of full vaccination:</strong> please visit the unique URL sent in last week’s email (don't have it? send a reply and we'll get it to you!), set a password and upload an image that proves your full vaccination status (eg. a vaccine card).</p>
+<p><strong>Complete the Event Liability Release:</strong> please refer to the email from “Hack Club via DocuSign” and complete the liability waiver by following the instructions it outlines. Alternatively, if DocuSign is not functioning, please sign the attached PDF copy and send it <a href="mailto:assemble@hackclub.com">assemble@hackclub.com</a>.</p>
+<p>We've got an large&nbsp;waitlist, if you don't complete these two tasks, you will unfortunately&nbsp;lose your spot.&nbsp;If you’ve already completed your forms, thank you!&nbsp;COVID-19 test uploading will open next week. Please remember to upload your test within 24 hours of your first flight’s departure time or the event starting, whichever comes first.</p>
+<p>On a more exciting note, at Assemble we’ll all be&nbsp;voting on a “prompt” for the event to inspire project ideas. It’s like a theme at other hackathons, but people don’t have to follow it, and you all select one! <a href="https://airtable.com/shruu8mVaHpnlFEn2">You can submit your own prompt here for the ballot.</a> Thank you!</p>
+<p>Please let me know if you need any additional support or help with these tasks. For reference, I’ve also attached last Friday’s logistical update.</p>
+<p><strong>Please note one correction for travellers, </strong>Hack Club staff will be stationed at <a href="https://goo.gl/maps/fUhGapZNZbhhfDzU7">“Starbucks International Arrival”</a> on Friday at San Francisco International Airport instead of the AirLink terminal.&nbsp;</p>
+<p>Looking forward to it,</p>
+<p>Sam &amp; the Assemble Team</p>
+<p><img alt="" src="https://cloud-dj4vl9j42-hack-club-bot.vercel.app/020220723_212232.jpg" style="width: 300px; height: 169px;"></p>
+<p><em>(drawing is not a career path for me, sadly)</em><br>
+&nbsp;</p>
 
 ### Parent Q&As
 
