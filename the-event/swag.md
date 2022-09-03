@@ -1,4 +1,4 @@
-# Swag
+# 🪅 Swag
 
 At Assemble, hackers to walk away with a collection of artifacts from the event. These artifacts would be a lasting memory of the special weekend they'd had in San Francisco. 
 

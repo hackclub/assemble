@@ -1,4 +1,4 @@
-# Finding a Venue
+# 🔍 Finding a Venue
 
 For Assemble, we committed to doing a hackathon for 150 people in San Francisco before we even had a venue and although it’s not highly recommended, we were eventually able to deliver! First we started by looking at our (Hack Club’s) network. This meant looking through who our supporters were and who we knew. From there, we made a list of about 10 venues that we think will both suit our needs (space for 150 people and allow us to stay overnight) and also have some sort of personal connection to us. Some of these venues included GitHub (which we had worked with), Twitter (one of Hack Club’s donors was connected), Microsoft Reactor (one of the organizer’s fathers worked at Microsoft), and Figma (our hackathon venue!!!). We recognize that not every high school hackathon organizer would have the same connections to these huge tech companies but you’re definitely connected to someone that might run the local library or work at a university and leveraging these networks can be super useful. 
 

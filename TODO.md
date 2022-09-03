@@ -15,10 +15,10 @@
 - [x] README.md
 - [ ] Workshops - Ishan
 - [ ] Activities README - Sam
-  - [ ] "Fun Boss" - Sam
+  - [x] "Fun Boss" - Sam
   - [ ] CTF - Bash
 - [ ] Opening Ceremony - Sam
-- [ ] Judging & The Closing Ceremony - Copy from planning documents & adapt by Ian
+- [x] Judging & The Closing Ceremony - Copy from planning documents & adapt by Ian
 - [ ] Prizes - Hugo
   - [ ] Plaques - Ella
 - [ ] Communication - Sam

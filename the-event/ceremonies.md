@@ -1,4 +1,4 @@
-# Opening & Closing Ceremonies 
+# 👋 Opening & Closing Ceremonies 
 
 > Coming soon!
 

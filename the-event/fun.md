@@ -1,4 +1,4 @@
-# Fun, Fun & More Fun
+# 🥳 Fun, Fun & More Fun
 
 A 42-hour hackathon with a 24-hour hackathon worth of time spent coding and the rest of the time spent having fun. That's how @msw described Assemble to me. He's right and that's what I loved about Assemble. So as weird as it sounds, here's how we made "fun" at Assemble.
 

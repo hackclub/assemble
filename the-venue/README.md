@@ -1,5 +1,10 @@
-# 📌 The Venue
+# Table of Contents
 
-> Placeholder description!
+| Document | Description |
+| --- | --- |
+| 🌈 [`designing.md`](designing.md) | How we made the atmosphere in the Figma office feel Hack Club-esque. | 
+| 🔍 [`finding.md`](finding.md) | How we found a venue for Assemble. | 
+| 💬 [`pitching.md`](pitching.md) | How we pitched Assemble to potential venues. | 
+| 🙏 [`thanking.md`](thanking.md) | How we thanked Figma for their generosity. | 
 
-Since the pandemic began, finding a venue has became by far the most challenging aspect of organising a hackathon. Assemble was hosted across two floors in Figma's San Francisco office, situated in the [Phelan Building](https://en.wikipedia.org/wiki/Phelan_Building) on Market Street. Getting there took almost 40% of the time spent organising the event, however, when the event rolled around it was well and truly worth it. Figma's space was creatively inspiring and provided the perfect home for Assemble. As an organiser, you'll need to make pitches to potential venues, convince a venue to buy into your event, set up the venue for success and finish by making the venue provider feel appreciated.
+[← Go Back](/README.md)

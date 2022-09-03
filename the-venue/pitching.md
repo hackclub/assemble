@@ -1,6 +1,8 @@
-# Pitching to a Venue
+# 💬 Pitching to a Venue
 
-Below is the email we used to pitch
+Below is the email we used to pitch Assemble to Figma! Dylan's first response (21 minutes after we sent the email) was:
+
+> Hi Sam, I don't know if we can, but adding Lauren and Trevor to help chase this down!
 
 **Subject:** Bringing Together Hack Clubbers @ Figma SF?
 

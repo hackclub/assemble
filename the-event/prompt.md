@@ -1,4 +1,4 @@
-# Prompt
+# 🥠 Prompt
 
 At Assemble, we ended our opening ceremony by having attendees choose a prompt for the projects they'd build at the event. The intent behind this was thay by default, if we just tell people to show up and hack, we'll probably see similar results as regular hackathons. Eg.
 
