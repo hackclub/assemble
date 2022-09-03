@@ -58,5 +58,3 @@ If an attendee or organizer has a positive test within 7 days of the event, they
 To ensure attendees and organizers remember to self-report after the event, a scheduled text message will be sent with the [self-report link].
 
 [self-report link]: https://airtable.com/shr7cGWMSKPTGrGe4
-
----
