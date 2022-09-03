@@ -28,11 +28,17 @@ More than 50% of our attendees had flown into San Francisco, it'd be mean for us
 
 <img src="https://cloud-pqaeqyn9f-hack-club-bot.vercel.app/0img_3994.jpg" width="600px" />
 
-## Talent Show
+## The (Un)Talent Show & Lightning Talks
+
+Here's how we described these two events to attendees:
+
+> First, the 🎤 (Un)Talent Show, where you can present or perform anything to your fellow hackers! It’ll be chill and informal, so there’s no pressure. Heck, show us what you’re incredibly bad at (ever seen Ishan shuffle a deck of cards? shudder) Feel free to bring any objects or props, and if you need anything we can help you acquire it!
+
+> Second, ⚡ Lightning Talks, where hackers give quick talks about intriguing things in rapid succession. Come up with some slides or present without them. We recommend keeping ‘em short short: about 2-3 minutes. Example ideas: “How bad is PHP?” & “Why pineapple deserves to be on pizza.” (56.5% of you agree according to your registrations).
+
+Whilst implementation was slightly different between the two, the essential idea was the same: to bring together all the attendees and celebrate each other's talents (or un-talents) & interests. To make these two events happen, we released a form for attendees to register interest, then worked with them to make their idea a reality & lastly, did a run-through/rehearsal with them over Zoom. On the day, all we had to do was invite them up on stage & they'd take the show away! 
 
 ## The CTF (w/ The Organization)
-
-## Lightning Talks
 
 ## Food Scavenger Hunt
 
