@@ -1,10 +1,14 @@
-# Swag
+# Artifacts
 
-Swag is a great way to add a personal touch to your hackathon.
+At Assemble, hackers to walk away with a collection of artifacts from the event. These artifacts would be a lasting memory of the special weekend they'd had in San Francisco. 
 
 ## PCB Badges
 
-## Sticker Mule
+## Postcards
+
+## Instax Photos
+
+## StickerMule
 
 ## Keychains
 
