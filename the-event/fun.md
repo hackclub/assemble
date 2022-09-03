@@ -48,5 +48,4 @@ Everyone loves music, what's even better is Hack Clubber-made music! @Lux, Hack 
 
 https://user-images.githubusercontent.com/39828164/187209505-c2765589-a83f-436a-b92e-029f47196037.MOV
 
-I would 100% a music-related side activity.
-
+I would 100% a music-related side activity. Music brings everyone together & is something that almost every can enjoy.
