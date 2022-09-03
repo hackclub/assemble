@@ -367,10 +367,26 @@ _Sunset over Shelburne Farms, Vermont._
 
 ### Parent Q&As
 
+We also ran three Q&As with parents over Zoom. We'd invite them on for thirty minutes to ask Christina & Sam questions about the event as well as hear our pitch for the event. These were really helpful for parents to become more confident in sending their kid across the world for a hackathon! We normally had five to eight parents in each Q&A.
+
 ## At The Event
+
+We had 175 in a massive office space, how do we make sure they all know what's going on?
 
 ### Printed Handouts
 
+Our first strategy was to print out brochures with schedules & instructions for certain events. We'd then hand out these brochures during big events such as dinners and ceremonies.
+
+### Schedule Website
+
+On the day of the event we also created a [schedule website](https://assemble-schedule.hackclub.dev) [(view the code here)](https://github.com/hackclub/assemble-schedule) that attendees can use to keep up with ongoing events. We also built a platform to share important links and announcements to the hackers at Assemble, mid-event: https://assemble-feed.hackclub.dev [(view the code here)](https://github.com/hackclub/assemble-feed). 
+
 ### Text Messages
 
+Airtable has the ability to [send SMSs through Twilio](https://support.airtable.com/docs/send-sms-block). We used this extension at Assemble to SMS all attendees live updates about the event!
+
 ### Herders / Verbal Announcements
+
+Lastly, we had the age-old strategy of simply shouting announcements which became a big of a meme:
+
+> Probably the most surreal feeling I've experienced this year was knocking out cold for 2-3 hours after a very long day and a half, only to be woken up by a loud booming sam yelling "GOOOOOOD MORNING!!! GOOOOOOOD MORNING TODAY IS SUNDAAAYY IT IS THE BEST DAYYY GOOOOOOOOOOD MORNING!!!" for like 30 minutes
