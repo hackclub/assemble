@@ -18,6 +18,28 @@ Here are the prizes we brought to the event to give out:
 | 🧊 3D-printed Hack Cubes & Fidget Spinners               | 40       |
 | 🌝 Assorted NASA Flight Memorabilia                      | 8        |
 
+Here are all the award categories we used:
+
+- 8-Ball's Favorite Project
+- The Scrappy Award
+- The Game of the weekend
+- Most Upvoted Project
+- The Mystery Award
+- The Trigger Award
+- Most Loved Project
+- Most Polished Project
+- Most Magical Project
+- The Space Award
+- Most Hacky Project
+- The Eggsdee Award
+- Dinobox's Favorite Project
+- Most Magical Project
+- The Ship
+- The Big Brain Award
+- Most Cursed Project
+- The Emoji Award
+- Most Fire Project
+
 As you can see, we had a ton of prizes! We ended up giving everyone who attended a prize, with the smaller prizes going to those who didn't win an award at the event (we had to reuse some event supplies such as workshops hardware as prizes to cover every attendee).
 
 <img src="https://user-images.githubusercontent.com/39828164/188268596-a632637e-3462-477d-806f-5132610c20fe.jpg" alt="White dinosaur plush toy with assorted prizes and swag from Assemble" width="500px" />
