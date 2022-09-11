@@ -1,4 +1,4 @@
-# 💸 The Budget
+# Table of Contents
 
 [📑 View our budget on Google Sheets ➚](https://docs.google.com/spreadsheets/d/1zr2hHsi_i6P47KuUvGP_iPHTNwT3MXwTWJvLFCk2Dck/edit?usp=sharing)
 
