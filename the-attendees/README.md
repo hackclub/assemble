@@ -1,4 +1,4 @@
-# 🫂 The Attendees
+# Table of Contents
 
 | Document | Description |
 | --- | --- |
