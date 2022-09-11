@@ -1,4 +1,4 @@
-# Visas
+# 🛂 Visas
 
 Assemble was an international hackathon and we drew attendees from around the world (like India, Nigeria, Singapore, and more). To bring these hackers to San Francisco, we had to gain a deeper understanding of the US immigration system, eventually landing on a B1 Business Visa for conference purposes with an expedited interview request (further details can be found here:[ https://hack.af/assemble-int](https://hack.af/assemble-int)). Since a hackathon is a conference or convention of sorts, that’s the broad category that we placed Assemble under. To support our attendees’ applications, we also wrote a visa letter covering:
 

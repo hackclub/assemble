@@ -1,4 +1,4 @@
-# Travel Stipends
+# ✈️ Travel Stipends
 
 <img src="https://user-images.githubusercontent.com/39828164/189508836-cf55406e-a4e5-4d0f-8808-8daf97eb0448.jpg" width="600px" />
 

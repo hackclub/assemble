@@ -1,5 +1,10 @@
 # 🫂 The Attendees
 
-> Placeholder description!
+| Document | Description |
+| --- | --- |
+| 😎 [`guests.md`](guests.md) | The rundown of our approach to guests at Assemble. | 
+| 💌 [`marketing.md`](marketing.md) | How we marketed Assemble using email, [hackathons.hackclub.com](https://hackathons.hackclub.com) & more.  | 
+| ✈️ [`stipends.md`](stipends.md) | How we reimbursed attendee's travel costs through stipends. | 
+| 🛂 [`visas.md`](visas.md) | How we supported international attendees with visas. | 
 
-There's only so much organisers can do along to make a wonderful hackathon, it is the attendees who bring a hackathon alive. As an organiser, your role in this process is to make sure everyone who needs to hear about your hackathon does, to convert these potential participants into attendees, to make sure they're all set for the event and then to inspire them to embrace the spirit of the hackathon. At the same time, you may choose to invite non-high schoolers to mentor and talk with the attendees. At Assemble, we wanted to make sure such relationships were casual and human, an approach you can read more about [here](). 
+[← Go Back](/README.md)
