@@ -1,4 +1,4 @@
-# 💸 Sponsorships
+# 💰 Sponsorships
 
 Assemble was funded fully by Hack Club, however, most hackathons have to raise money through sponsorship. To help we've compiled a couple resources created by Hack Clubbers and friend of Hack Club:
 
