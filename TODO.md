@@ -35,9 +35,9 @@
 
 - [x] README.md
 - [x] Travel Stipends - Sam
-- [ ] Marketing - Sam?
+- [x] Marketing - Sam?
   - [x] Partnerships - Abby
-  - [ ] Website & Registration - Sam
+  - [x] Website & Registration - Sam
 - [ ] Mentors - Ishan?
 
 💸 The Budget
@@ -51,8 +51,7 @@
 
 - [x] README.md
 - [x] Finding A Venue Partner - Belle
-- [ ] Making A Venue Magical - Sam
-- [ ] Thanking Your Venue - Abby?
+- [x] Thanking Your Venue - Sam
 
 📚 Further Reading
 
