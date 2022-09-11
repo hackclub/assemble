@@ -34,26 +34,24 @@
 🫂 The Attendees
 
 - [x] README.md
-- [ ] Travel Stipends - Sam
+- [x] Travel Stipends - Sam
 - [ ] Marketing - Sam?
-  - [ ] Partnerships - Abby
+  - [x] Partnerships - Abby
   - [ ] Website & Registration - Sam
 - [ ] Mentors - Ishan?
-- [ ] Communicating the event's ideals - ??
 
 💸 The Budget
 
 - [x] README.md
-- [ ] Making a Budget - Sam
-- [ ] Sponsorships - Find Volunteer
-- [ ] Managing Money - Sam
+- [x] Making a Budget - Sam
+- [x] Sponsorships - Find Volunteer
+- [x] Managing Money - Sam
 
 📌 The Venue
 
 - [x] README.md
-- [ ] Finding A Venue Partner - Belle
+- [x] Finding A Venue Partner - Belle
 - [ ] Making A Venue Magical - Sam
-- [ ] Handling Your Venue Relationship - Kara or Sam
 - [ ] Thanking Your Venue - Abby?
 
 📚 Further Reading
