@@ -12,13 +12,13 @@ Why make PCBs, instead of using plastic or wood? PCBs gave us an easy option for
 
 We began by creating a design in Figma of our badge:
 
-![Group 15](https://user-images.githubusercontent.com/39828164/189695542-7f97fb85-d530-40b6-b7b6-69544c2be24e.png)
+<img src="https://user-images.githubusercontent.com/39828164/189695542-7f97fb85-d530-40b6-b7b6-69544c2be24e.png" width="600px" />
 
 After creating the PCB in KiCAD, we had several options to order. We could either do Matte Black / Yellow / Silver, or Matte Black / White / Gold. I ordered prototypes of both, but they arrived too late. Sam made the decision to order the former, and we placed a production order before the prototypes arrived. The production run arrived at Figma HQ on 8/3- phew!
 
 To personalise the badges, I used my thermal label printer and printed 1.5x0.5" labels with names using a Python script to generate 1.5x0.5 PDFs. I enlisted the help of Celeste & Lexi to attach lanyards to the PCBs as well as getting Sarthak & Holly's help sticking labels on and sorting the badges. 
 
-![IMG_2024](https://user-images.githubusercontent.com/39828164/189701366-41d143a5-fd67-4d1e-adb7-f2ba2582c517.jpg)
+<img src="https://user-images.githubusercontent.com/39828164/189701366-41d143a5-fd67-4d1e-adb7-f2ba2582c517.jpg" width="600px" />
 
 ## Postcards ([@hugoyhu](https://github.com/Hugoyhu))
 
@@ -26,17 +26,17 @@ Postcards were a more last-minute thing. I originally floated the idea of bringi
 
 However, in Sam's infinite wisdom, he proposed making _custom_ postcards! We decided to go with 5 designs, and ordered 250 from [moo](https://www.moo.com/us/). We made the back of the postcards a space for Hack Clubbers to sign each other's postcards.
 
-![Group 16-2](https://user-images.githubusercontent.com/39828164/189696814-c2c3d83e-d516-4218-b077-27609c70b6a5.png)
+![Our Postcard Designs](https://user-images.githubusercontent.com/39828164/189696814-c2c3d83e-d516-4218-b077-27609c70b6a5.png)
 
 Whilst we were originally going to mail everyone's postcards back to them, most people ended up taking their cards home themselves! That said, the postcards left everyone with a personalised artifact from the event and were a wonderful addition.
 
-![Image from iOS (14)](https://user-images.githubusercontent.com/39828164/189702074-4b8d2243-2f8e-451c-a633-d4669b529202.jpg)
+![Image from iOS (14)](https://user-images.githubusercontent.com/39828164/189702074-4b8d2243-2f8e-451c-a633-d4669b529202.jpg"
 
 ## Instax Photos ([@hugoyhu](https://github.com/Hugoyhu))
 
 We brought a FujiFilm Instax Camera all the way from Vermont to San Francisco with more than _200_ packs of film! I went around, as the photographer, taking images of people & getting them printed. When I returned home, I sorted through the images and mailed them out to everyone. 
 
-![FZmIY3PVUAAdy5E-2](https://user-images.githubusercontent.com/39828164/189701909-03c1200b-fb66-469c-9749-7c3e88318475.jpeg)
+<img src="https://user-images.githubusercontent.com/39828164/189701909-03c1200b-fb66-469c-9749-7c3e88318475.jpeg" width="600px" />
 
 ## Sticker Mule ([@hugoyhu](https://github.com/Hugoyhu))
 
@@ -44,9 +44,9 @@ We placed a HUGE swag order with Sticker Mule. Somehow, [we spent $2,710.74](htt
 
 Sam had two *amazing* designs: an outline map of SF streets on black, as well as an oil painting-like portrait by Max, which we used for the final design. We had time to order samples, but we had the image printed too large. Several digital proofs later, 200 shirts(ish) ordered! 
 
-![953B5DAD-37E8-4202-BBF0-EF236F817B94](https://user-images.githubusercontent.com/39828164/189699820-c461fe04-4a40-4975-b066-6ff426fa93c4.jpeg)
+<img src="https://user-images.githubusercontent.com/39828164/189699820-c461fe04-4a40-4975-b066-6ff426fa93c4.jpeg"  width="600px" />
 
-![6D2F6787-CFCB-4A1E-BC3A-C9F62AC21FC9](https://user-images.githubusercontent.com/39828164/189700931-1dc92fa1-16eb-4c01-bf51-1d80c3d5d73c.jpeg)
+<img src="https://user-images.githubusercontent.com/39828164/189700931-1dc92fa1-16eb-4c01-bf51-1d80c3d5d73c.jpeg"  width="600px" />
 
 _(Ian & Caleb, from the Assemble team, modelling the t-shirt in front of the real Golden Gate Bridge!)_
 
@@ -56,7 +56,7 @@ _(The final proof from Sticker Mule of our t-shirt design.)_
 
 We also ordered a hack-ton of stickers. We had two designs: the Assemble logo (2"x2" with rounded corners), as well as an Orpheus shouting "Hackers, Assemble!". We got pins, too! Small metal pins with 3 different Orpheus drawings. Also from Sticker Mule, but not placed in this Assemble order, were a large number of [Hack Club stickers](https://hackclub.com/stickers). (We ship these to hackathons around the world, [get in touch](mailto:team@hackclub.com)!)
 
-![Group 3](https://user-images.githubusercontent.com/39828164/189700698-06d74386-8b84-4414-9ab4-85855b6b5ca6.png)
+<img src="https://user-images.githubusercontent.com/39828164/189700698-06d74386-8b84-4414-9ab4-85855b6b5ca6.png" width="800px" />
 
 ## Keychains ([@exu3](https://github.com/exu3))
 
