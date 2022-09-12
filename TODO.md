@@ -22,12 +22,12 @@
 - [x] Prizes - Hugo
   - [x] Plaques - Ella
 - [x] Communication - Sam
-- [ ] Swag - Hugo
-  - [ ] PCB Badges - Hugo
-  - [ ] Stickermule - Hugo
+- [x] Swag - Hugo
+  - [x] PCB Badges - Hugo
+  - [x] Stickermule - Hugo
   - [x] Keychains - Ella
 - [x] Run of Show - Sam
-- [ ] Sleeping - Sam
+- [x] Sleeping - Sam
 - [x] Food - Pranav
   - [ ] Food Scavenger Hunt - Dev
 
