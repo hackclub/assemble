@@ -16,7 +16,7 @@ On the day, we created handouts with all the workshops & gave workshop leaders a
 
 Here's an example of a workshop, Kayley's `Building Social Confidence & Talking to People`:
 
-https://cloud-nbxb8ihj3-hack-club-bot.vercel.app/0y2mate.is_-_building_social_confidence___talking_to_people___hack_club_assemble-v7fmaow5sky-720p-1659619951804.mp4
+https://user-images.githubusercontent.com/39828164/189858257-3463d8ad-f774-413e-91c6-5b89029652e1.mp4
 
 Here's [the full schedule](https://assemble-schedule.hackclub.dev) for those interested!
 
