@@ -7,7 +7,9 @@
 | 🦠 [`covid.md`](covid.md) | Our event's COVID-19 policy. | 
 | 🌮 [`food.md`](food.md) | All the details about the meals we provided. | 
 | 🥳 [`fun.md`](fun.md) | Runs through the activities we planned & the social experience at Assemble. | 
+| 👋 [`guests.md`](guests.md) | The details on how we invited guests to Assemble. | 
 | 👏 [`judging.md`](judging.md) | Explains how projects were judged at Assemble. | 
+| 🎁 [`prizes.md`](prizes.md) | Goes through all the prizes we distributed. | 
 | 🥠 [`prompt.md`](prompt.md) | Describes our alternative to a theme: a prompt. | 
 | 🗓️ [`run-of-show.md`](run-of-show.md) | Assemble's _"event bible"_. | 
 | 💤 [`sleeping.md`](sleeping.md) | 42 hours, the attendees have got to sleep*. | 
