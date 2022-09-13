@@ -16,7 +16,7 @@
 - [ ] Workshops - Ishan
 - [x] Activities README - Sam
   - [x] "Fun Boss" - Sam
-  - [ ] CTF - Bash
+  - [x] CTF - Bash
 - [x] Opening Ceremony - Sam
 - [x] Judging & The Closing Ceremony - Copy from planning documents & adapt by Ian
 - [x] Prizes - Hugo
@@ -29,7 +29,7 @@
 - [x] Run of Show - Sam
 - [x] Sleeping - Sam
 - [x] Food - Pranav
-  - [ ] Food Scavenger Hunt - Dev
+  - [x] Food Scavenger Hunt - Dev
 
 🫂 The Attendees
 
