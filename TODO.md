@@ -2,7 +2,6 @@
 - [x] Finances Breakdown 
 - [x] GitHub Repo to be a) comprehensive and b) useful
   - [x] Building blocks of the hackathon: budget, judging, venue,
-- [ ] All codebases documented and open
 - [ ] Ship post at the end
 - [ ] Remove `TODO.md`
 
