@@ -76,7 +76,7 @@ The majority of work on Assemble was done in a month, from July 5th to August 5t
 
 [👋 Issue #1: Getting Started in Vermont, July 8th](updates/1.md)
 
-[😫 Issue #2: Everything Gets Really Difficult Really fast, July 15th](updates/2.md)
+[😫 Issue #2: Everything Gets Really Difficult Really Fast, July 15th](updates/2.md)
 
 [👣 Issue #3: Gaining My Footing, July 24th](updates/3.md)
 
