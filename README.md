@@ -98,6 +98,7 @@ The majority of work on Assemble was done in a month, from July 5th to August 5t
 
 - The website: https://github.com/hackclub/www-assemble
 - The registration form: https://github.com/hackclub/assemble-register
+- The midnight CTF: https://github.com/hackclub/assemble-midnight-ctf
 - The schedule for attendees at the event: https://github.com/hackclub/assemble-schedule
 - Our voting and judging system for the event: https://github.com/hackclub/assemble-scrapbook
 - The print system supporting scrapbook: https://github.com/hackclub/assemble-print
