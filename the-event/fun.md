@@ -62,7 +62,7 @@ We also needed to make sure that everyone who’s leaving the venue unsupervised
 
 A minor inconvenience here was the way these quests were evaluated. We could’ve better integrated the scavenger hunt with the slack, since the evaluation setup involved Kara, Hugo and I manning a desk flooded with attendees trying to get their quests evaluated.
 
-The food scavenger hunt really bought the hackathon back to life, and everyone seemed super energised for the next couple hours! A lot of hackers completed all the quests in the letter (one such quest involved running to the centre of the office, pounding your chest like a gorilla, and screaming “I’m an Animal”)
+The Food Scavenger Hunt really bought the hackathon back to life, and everyone seemed super energised for the next couple hours! A lot of hackers completed all the quests in the letter (one such quest involved running to the centre of the office, pounding your chest like a gorilla, and screaming “I’m an Animal”)
 
 ## Disco (w/ Lux)
 
