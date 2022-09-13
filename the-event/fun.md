@@ -46,6 +46,24 @@ Whilst implementation was slightly different between the two, the essential idea
 
 ## Food Scavenger Hunt
 
+_In this section, [@devenjadhav](https://github.com/devenjadhav), our team's resident cowboy, explains the Food Scavenger Hunt:_
+
+Dear hacker, welcome to the city by the bay.
+
+San Francisco is one of the most beautiful cities I’ve ever been too. Everything from the food I ate, to the people I met was something I’d never forget for the rest of my life.
+
+We knew that a lot of hackers at Assemble would be coming to San Francisco for the first time, and we wanted a way for everyone to explore the city and try some local food during the duration of the Hackathon, and we wanted to do that as safely as possible.
+
+We decided to carve out some time for the Food Scavenger Hunt- a 2.5 hour activity on the second day during lunch. Every attendee was given a $15 stipend in cash, along with a [letter](/further-reading/fsc.pdf) that had a list of some amazing local restaurants (that Pranav suggested!) and a set of quests designed to make attendees get to know each other better.
+
+The total cash withdrawn for Assemble was about $2,625, in specific denominations of $5 and $10. Usually, banks have to be informed beforehand if a large number of bills are needed, especially for smaller denominations.
+
+We also needed to make sure that everyone who’s leaving the venue unsupervised had permission to do so from their parent/guardian (through the freedom waiver). HQ staff members led supervised groups for hackers who didn’t have a freedom waivers on file.
+
+A minor inconvenience here was the way these quests were evaluated. We could’ve better integrated the scavenger hunt with the slack, since the evaluation setup involved Kara, Hugo and I manning a desk flooded with attendees trying to get their quests evaluated.
+
+The food scavenger hunt really bought the hackathon back to life, and everyone seemed super energised for the next couple hours! A lot of hackers completed all the quests in the letter (one such quest involved running to the centre of the office, pounding your chest like a gorilla, and screaming “I’m an Animal”)
+
 ## Disco (w/ Lux)
 
 Everyone loves music, what's even better is Hack Clubber-made music! @Lux, Hack Clubber in CA, put together a synthwave set and performed it live at Assemble in front of everyone. Words can't describe how special it was.
