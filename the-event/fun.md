@@ -44,7 +44,7 @@ Whilst implementation was slightly different between the two, the essential idea
 
 ## The CTF (w/ The Organization)
 
-As our first of two midnight suprises, we took out the lights at Assemble & ran a CTF for participants turn them back on. You can read all about it in [@bashbaugh](https://github.com/bashbaugh)'s write-up at (hackclub/assemble-midnight-ctf)[https://github.com/hackclub/assemble-midnight-ctf].
+As our first of two midnight suprises, we took out the lights at Assemble & ran a CTF for participants turn them back on. You can read all about it in [@bashbaugh](https://github.com/bashbaugh)'s write-up at [`hackclub/assemble-midnight-ctf`](https://github.com/hackclub/assemble-midnight-ctf).
 
 <img width="600" alt="Screenshot 2022-08-27 at 12 30 56 AM" src="https://user-images.githubusercontent.com/39828164/189818382-ca2ad219-d9fa-46c7-94e6-8f2a3ca4141d.png">
 
