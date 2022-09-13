@@ -13,7 +13,7 @@
 📆 The Event
 
 - [x] README.md
-- [ ] Workshops - Ishan
+- [x] Workshops - Ishan
 - [x] Activities README - Sam
   - [x] "Fun Boss" - Sam
   - [x] CTF - Bash
@@ -38,7 +38,7 @@
 - [x] Marketing - Sam?
   - [x] Partnerships - Abby
   - [x] Website & Registration - Sam
-- [ ] Mentors - Ishan?
+- [x] Mentors - Ishan?
 
 💸 The Budget
 
