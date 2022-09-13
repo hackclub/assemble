@@ -12,7 +12,7 @@
 | 🥠 [`prompt.md`](prompt.md) | Describes our alternative to a theme: a prompt. | 
 | 🗓️ [`run-of-show.md`](run-of-show.md) | Assemble's _"event bible"_. | 
 | 💤 [`sleeping.md`](sleeping.md) | 42 hours, the attendees have got to sleep*. | 
-| 🪅 [`swag.md`](swag.md) | Swag is quintessential to hackathon, Assemble was no different. | 
+| 🪅 [`swag.md`](swag.md) | Swag is quintessential to a hackathon, Assemble was no different. | 
 | 🛠️ [`workshops.md`](workshops.md) | Everything about how we ran workshops at Assemble. | 
 
 [← Go Back](/README.md)
