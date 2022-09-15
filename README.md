@@ -14,13 +14,13 @@ Many Hack Clubbers in 2022 had heard about great IRL hackathons, but very few ha
 
 To do this, we hosted the first [high-school hackathon](https://twitter.com/hackclub/status/1556433548361338881) in San Francisco since 2020, [open sourced](https://github.com/hackclub/assemble) the entire event & [launched a series of supports](https://hackclub.com/hackathons/) for high school hackathon organisers based on our experience.
 
-The goal of this repository is to be a guiding reference for high schoolers looking to organise their own hackathon. No hackathon is the same but we hope that within this repository you can find inspiration for you own special event.
+The goal of this repository is to be a reference for high schoolers looking to organise their own hackathon. No hackathon is the same but we hope that within this repository you can find inspiration for you own special event.
 
 ## ✨ The Philosophy
 
 <img width="600" alt="Hacker reverse engineering a power extender!" src="https://user-images.githubusercontent.com/39828164/189932518-93a9b110-7e29-410c-973c-ac7fd6a8eb04.png">
 
-A hackathon is not an extracurricular or a club. It's not a class or a lecture. Hackathons are a place to build things for fun and meet others doing the same. Going into organising Assemble, we brainstormed what a magical hackathon looked like, from those brainstorms we developed the following framework for a great hackathon:
+A [hackathon](https://hackclub.com/hackathons) is not an extracurricular or a club. It's not a class or a lecture. Hackathons are a place to build things for fun and meet others doing the same. Going into organising Assemble, [we brainstormed what a magical hackathon looked like](/further-reading/magic.md), from those brainstorms we developed the following framework for a great hackathon:
 
 - Hackers are prompted to create weird & wacky projects.
 - Hackers feel ownership of the event.
@@ -34,11 +34,9 @@ A hackathon is not an extracurricular or a club. It's not a class or a lecture. 
 
 <img width="600" alt="Hacker demoing their project." src="https://user-images.githubusercontent.com/39828164/189933879-c5a788b6-dfbe-4124-a985-33ff2b98dbbb.png">
 
-Assemble ran from 6PM on Friday to 12PM on Sunday. That's 42 hours to make our own. Creating a great hackathon, means designing a spectacular attendee experience as well as a great organiser experience. There are a fair few components to this including, but not limited to, planned (as well as unplanned) [activities](/the-event/fun.md), judging, swag, food and ceremonies. The specifics of each at Assemble are detailed in their respective files in [`/the-event`](/the-event).
+Assemble ran from 6PM on Friday to 12PM on Sunday. That's 42 hours to make our own. Creating a great hackathon, means designing a spectacular attendee experience as well as a great organiser experience. There are a fair few components to this including, but not limited to, planned (as well as unplanned) [activities](/the-event/fun.md), [judging](/the-event/judging.md), [swag](/the-event/swag.md), [food](/the-event/food.md) and [ceremonies](/the-event/ceremonies.md). The specifics of each at Assemble are detailed in their respective files in [`/the-event`](/the-event).
 
 <img width="600" alt="An dinosaur* makes an expected appearance at the event!" src="https://user-images.githubusercontent.com/39828164/189933643-e31d5ef7-cc9e-4d84-a8d5-1fe152278622.png">
-
-Our general methodology when event designing was to place ourselves in the shoes of those involved and to guided by the above principles. At times, you do have to balance great ideas with practical constraints but modifications can be made to ideas to make them practical. 
 
 [Read more in `/the-event` ➚](/the-event)
 
@@ -46,7 +44,7 @@ Our general methodology when event designing was to place ourselves in the shoes
 
 <img width="600" alt="Everyone at Assemble cheering!" src="https://user-images.githubusercontent.com/39828164/189933158-9f00ceaf-7f61-4bef-9911-4cf4a14e0e4d.png">
 
-There's only so much organisers can do along to make a wonderful hackathon, it is the attendees who bring a hackathon alive. As an organiser, your role in this process is to make sure everyone who needs to hear about your hackathon does, to convert these potential participants into attendees, to make sure they're all set for the event and then to inspire them to embrace the spirit of the hackathon. At the same time, you may choose to invite non-high schoolers to mentor and talk with the attendees. At Assemble, we wanted to make sure such relationships were casual and human, an approach you can read more about [here]().
+There's only so much organisers can do along to make a wonderful hackathon, it is the attendees who bring a hackathon alive. As an organiser, your role in this process is to make sure [everyone who needs to hear about your hackathon does](/the-attendees/marketing.md), to convert these potential participants into attendees, to [make sure they're all set](/the-event/communication.md) for the event and then to inspire them to embrace the spirit of the hackathon. At the same time, you may choose to invite non-high schoolers to mentor and talk with the attendees. At Assemble, we wanted to make sure such relationships were casual and human, an approach you can read more about [here](/the-attendees/guests.md).
 
 [Read more in `/the-attendees` ➚](/the-attendees)
 
@@ -54,7 +52,7 @@ There's only so much organisers can do along to make a wonderful hackathon, it i
 
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fbank-shields.hackclub.com%2Forganizations%2Fassemble%2Fbalance)](https://bank.hackclub.com/assemble)
 
-Assemble had a budget of \$75,000, that's a large budget for a high school hackathon. HS hackathon budgets can range anywhere from \$500 to \$75,000. Whatever your budget is, you'll find a similar set of expenses will arise between all hackathons. Every expense made for Assemble has been open sourced [here](https://bank.hackclub.com/assemble) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427). As an organiser, you'll need to raise money, create an itemized budget (which accounts for the unexpected) and then spend the money raised as planned.
+Assemble had a budget of \$75,000, that's a large budget for a high school hackathon. HS hackathon budgets can range anywhere from \$500 to \$75,000. Whatever your budget is, you'll find a similar set of expenses will arise between all hackathons. Every expense made for Assemble has been open sourced [here](https://bank.hackclub.com/assemble) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427). As an organiser, you'll need to [raise money](/the-budget/sponsorships.md), [create an itemized budget](/the-budget/budgeting.md) (which accounts for the unexpected) and then [spend the money](/the-budget/bank.md) raised as planned.
 
 [Explore our budget sheet ➚](https://docs.google.com/spreadsheets/d/1zr2hHsi_i6P47KuUvGP_iPHTNwT3MXwTWJvLFCk2Dck/edit?usp=sharing) or [read more in `/the-budget` ➚](/the-budget)
 
@@ -62,7 +60,7 @@ Assemble had a budget of \$75,000, that's a large budget for a high school hacka
 
 <img width="600" alt="The courtyard of Figma's office." src="https://user-images.githubusercontent.com/39828164/189934800-a937e5be-264a-4a2b-a8dc-a3b5eeefa15f.png">
 
-Since the pandemic began, finding a venue has became by far the most challenging aspect of organising a hackathon. Assemble was hosted across two floors in Figma's San Francisco office, situated in the [Phelan Building](https://en.wikipedia.org/wiki/Phelan_Building) on Market Street. Getting there took almost 40% of the time spent organising the event, however, when the event rolled around it was well and truly worth it. Figma's space was creatively inspiring and provided the perfect home for Assemble. As an organiser, you'll need to make pitches to potential venues, convince a venue to buy into your event, set up the venue for success and finish by making the venue provider feel appreciated.
+Since the pandemic began, [finding a venue](/the-venue/finding.md) has became by far the most challenging aspect of organising a hackathon. Assemble was hosted across two floors in Figma's San Francisco office, situated in the [Phelan Building](https://en.wikipedia.org/wiki/Phelan_Building) on Market Street. Getting there took almost 40% of the time spent organising the event, however, when the event rolled around it was well and truly worth it. Figma's space was creatively inspiring and provided the perfect home for Assemble. As an organiser, you'll need to make pitches to potential venues, convince a venue to buy into your event, set up the venue for success and finish by making the venue provider [feel appreciated](/the-venue/thanking.md).
 
 [Read more in `/the-venue` ➚](/the-venue)
 
