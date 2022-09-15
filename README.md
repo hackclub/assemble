@@ -44,7 +44,7 @@ Assemble ran from 6PM on Friday to 12PM on Sunday. That's 42 hours to make our o
 
 <img width="600" alt="Everyone at Assemble cheering!" src="https://user-images.githubusercontent.com/39828164/189933158-9f00ceaf-7f61-4bef-9911-4cf4a14e0e4d.png">
 
-There's only so much organisers can do along to make a wonderful hackathon, it is the attendees who bring a hackathon alive. As an organiser, your role in this process is to make sure [everyone who needs to hear about your hackathon does](/the-attendees/marketing.md), to convert these potential participants into attendees, to [make sure they're all set](/the-event/communication.md) for the event and then to inspire them to embrace the spirit of the hackathon. At the same time, you may choose to invite non-high schoolers to mentor and talk with the attendees. At Assemble, we wanted to make sure such relationships were casual and human, an approach you can read more about [here](/the-attendees/guests.md).
+There's only so much organisers can do to make a wonderful hackathon, it is the attendees who bring a hackathon alive. As an organiser, your role in this process is to make sure [everyone who needs to hear about your hackathon does](/the-attendees/marketing.md), to convert these potential participants into attendees, to [make sure they're all set](/the-event/communication.md) for the event and then to inspire them to embrace the spirit of the hackathon. At the same time, you may choose to invite non-high schoolers to mentor and talk with the attendees. At Assemble, we wanted to make sure such relationships were casual and human, an approach you can read more about [here](/the-attendees/guests.md).
 
 [Read more in `/the-attendees` ➚](/the-attendees)
 
