@@ -1,12 +1,12 @@
 # 🥠 Prompt
 
-At Assemble, we ended our opening ceremony by having attendees choose a prompt for the projects they'd build at the event. The intent behind this was thay by default, if we just tell people to show up and hack, we'll probably see similar results as regular hackathons. Eg.
+At Assemble, we ended our opening ceremony by having attendees choose a prompt for the projects they'd build at the event. The intent behind this was that by default, if we just tell people to show up and hack, we'll probably see similar results as regular hackathons. Eg.
 
 - an automated trash can
 - a gamified todo list / volunteering platform
 - a social network that solves a societal issue
 
-If we have the right prompt, we should see everyone interested in what they're building, no BS projects, and a celebration of the technical work being done over a buisiness plan/powerpoint. We changed the wording to 'prompt' instead of the standard 'theme' to communinicate that we wanted the prompt to inspire ideas, not dictate what hackers built.
+If we have the right prompt, we should see everyone interested in what they're building, no BS projects, and a celebration of the technical work being done over a business plan/powerpoint. We changed the wording to 'prompt' instead of the standard 'theme' to communicate that we wanted the prompt to inspire ideas, not dictate what hackers built.
 
 ## Selecting A Prompt
 

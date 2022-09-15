@@ -16,7 +16,7 @@ We began by creating a design in Figma of our badge:
 
 After creating the PCB in KiCAD, we had several options to order. We could either do Matte Black / Yellow / Silver, or Matte Black / White / Gold. I ordered prototypes of both, but they arrived too late. Sam made the decision to order the former, and we placed a production order before the prototypes arrived. The production run arrived at Figma HQ on 8/3- phew!
 
-To personalise the badges, I used my thermal label printer and printed 1.5x0.5" labels with names using a Python script to generate 1.5x0.5 PDFs. I enlisted the help of Celeste & Lexi to attach lanyards to the PCBs as well as getting Sarthak & Holly's help sticking labels on and sorting the badges. 
+To personalize the badges, I used my thermal label printer and printed 1.5x0.5" labels with names using a Python script to generate 1.5x0.5 PDFs. I enlisted the help of Celeste & Lexi to attach lanyards to the PCBs as well as getting Sarthak & Holly's help sticking labels on and sorting the badges. 
 
 <img src="https://user-images.githubusercontent.com/39828164/189701366-41d143a5-fd67-4d1e-adb7-f2ba2582c517.jpg" width="600px" />
 

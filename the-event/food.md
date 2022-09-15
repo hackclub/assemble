@@ -6,7 +6,7 @@ Assemble provided five meals to attendees: two dinners, two breakfasts and one l
 
 ## Dinners
 
-On the first day, we served Vietnamese food from [Perilla Vietnamese Cuisine](https://www.perilla525.com) in San Francisco. We choosed it because it was Pranav's (from the organising team) favourite resturant in the city & it didn't disappoint! Attendees really enjoyed the noodles & rolls. Many of them were expecting pizza so it was a pleasant surprise!
+On the first day, we served Vietnamese food from [Perilla Vietnamese Cuisine](https://www.perilla525.com) in San Francisco. We chose it because it was Pranav's (from the organising team) favourite restaurant in the city & it didn't disappoint! Attendees really enjoyed the noodles & rolls. Many of them were expecting pizza so it was a pleasant surprise!
 
 <img src="https://cloud-h50p5bapk-hack-club-bot.vercel.app/0screenshot_2022-08-10_at_2.35.21_pm-2.png" width="500px">
 

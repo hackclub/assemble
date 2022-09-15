@@ -54,7 +54,7 @@ So, what should you do next?
 4. Book your tickets (for flights, trains etc.). Please only do this once you have met the visa and ID prerequisites. 
 5. If you need to arrive or leave before Friday or after Sunday, ensure you have a place to stay in San Francisco. Accommodation will be provided within the venue on Friday & Saturday night.
 
-Please fill in [this form](https://airtable.com/shrb8udhJeRAhNfl3) within three days to accept your travel stipend. Please also familiarise yourself with the terms of the stipend on the form. 
+Please fill in [this form](https://airtable.com/shrb8udhJeRAhNfl3) within three days to accept your travel stipend. Please also familiarize yourself with the terms of the stipend on the form. 
 
 Looking forward to seeing you in San Francisco!
 
@@ -288,7 +288,7 @@ PS: check out my plane for the first leg of my journey to SF!
 
 It’s almost time! We’ve been spending the past two days setting up and we’re so excited to welcome you Assemble at Figma on Market Street.
 
-If you haven’t already, don’t forget to test yourself for COVID-19 and upload your negative result to  [ticketing.assemble.hackclub.com](https://ticketing.assemble.hackclub.com/)! After doing so, we'll review it and you'll recieve an email with a QR code (for check-in) from us. Please also re-familiarise yourself with the logistical details emailed in our original email (attached!). It includes instructions for travelling from the airport and emergency contact information for the event.
+If you haven’t already, don’t forget to test yourself for COVID-19 and upload your negative result to  [ticketing.assemble.hackclub.com](https://ticketing.assemble.hackclub.com/)! After doing so, we'll review it and you'll receive an email with a QR code (for check-in) from us. Please also re-familiarize yourself with the logistical details emailed in our original email (attached!). It includes instructions for traveling from the airport and emergency contact information for the event.
 
 On a more personal note, yesterday I got to meet five Hack Clubbers, and today I'll get to meet 150+ (including yourself!). I couldn't be more excited (alongside feeling a series of other emotions) :D At the event, let's make sure to meet up and get to know each other more!
 

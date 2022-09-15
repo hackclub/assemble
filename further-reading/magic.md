@@ -13,8 +13,8 @@
 * Opportunities to form personal connections (this could be just meal time or like on Zephyr where people went to each other’s hotel rooms and hung out or when people explored the city in their own groups)
 * Cool swag to remember the experience 
 * Ability to get help if needed (so a really good support system that empowers attendees to be excited about what they are building)
-* A very unconventional hackathon experience that will be different from anything the attendee has experienced(excl zephyr)- namely, the anti-hackathon model. An overal design less reliant on winning but learning, socializing, and collab.
-* Would be super cool to have something like zephyrnet but doesnt exactly seem required as it would not be an offline one
+* A very unconventional hackathon experience that will be different from anything the attendee has experienced(excl zephyr)- namely, the anti-hackathon model. An overall design less reliant on winning but learning, socializing, and collaboration.
+* Would be super cool to have something like zephyrnet but doesn't exactly seem required as it would not be an offline one
 * We NEED to get el farolito burritos. This is an absolute must
 * For hydrahacks i suggested doing this project where we had a “hacker cup”, namely there are multiple harry potter style houses, and there is an overall pointage for each _house_. There would be prizes for both houses and individuals and the houses could promote collaboration in CTFs. We could try something similar, maybe? 🔥
 * People aren’t just motivated by prizes and judging isn’t just the person with the best project they fork for each hackathon
