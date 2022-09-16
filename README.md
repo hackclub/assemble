@@ -84,6 +84,12 @@ The majority of work on Assemble was done in a month, from July 5th to August 5t
 
 [😥 Issue #6: Looking Back, August 13th](updates/6.md)
 
+### 📸 Photography
+
+Across this repository, you'll find the fabulous photographs of Assemble by [@kunalbotla](https://github.com/kunalbotla), a Hack Clubber from Boston. The full album can be found here (all Hack Clubbers can use these photos in their projects!): [hack.af/assemble-photos](https://hack.af/assemble-photos). We also have a collaborative album amongst attendees: [hack.af/assemble-album](https://hack.af/assemble-album).
+
+<img width="600" alt="Hackers assembled in the park." src="https://user-images.githubusercontent.com/39828164/190546801-707fcaee-f97c-4fad-ac0f-5ebaa7764d1e.png">
+
 ### 💻 Associated Repositories
 
 - The website: https://github.com/hackclub/www-assemble
