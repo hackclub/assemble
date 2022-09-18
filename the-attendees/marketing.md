@@ -84,7 +84,7 @@ One goal for Assemble was to have a gender diverse group of attendees. One way w
 
 The partnership started months before Assemble. Christina and Abby (from the Hack Club team) had met with Tarika Barret (CEO of Girls Who Code) and started a relationship with her. At the same time, Craig Newmark a Hack Club donor introduced us to another Girls Who Code team member. Girls Who Code sent out an email blast to alumni of one of their programs inviting them to apply to Assemble.
 
-From this example with GIrls Who Code it is clear to see that using your network is key in establishing funding and specific participants. One way we would suggest going about it is by looking through your connections on LinkedIn and figuring out who you could ask for support from.
+From this example with Girls Who Code it is clear to see that using your network is key in establishing funding and specific participants. One way we would suggest going about it is by looking through your connections on LinkedIn and figuring out who you could ask for support from.
 
 Going on with the theme of using your network. We also reached out to other female-identifying leaders in the tech community. She connected with Stephanie Su, who started Superposition. Superposition is the Bay Area's largest hackathon for underrepresented genders. Stephanie was able to share this opportunity with her network.
 
