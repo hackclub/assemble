@@ -86,7 +86,7 @@ The partnership started months before Assemble. Christina and Abby (from the Hac
 
 From this example with Girls Who Code it is clear to see that using your network is key in establishing funding and specific participants. One way we would suggest going about it is by looking through your connections on LinkedIn and figuring out who you could ask for support from.
 
-Going on with the theme of using your network. We also reached out to other female-identifying leaders in the tech community. She connected with Stephanie Su, who started Superposition. Superposition is the Bay Area's largest hackathon for underrepresented genders. Stephanie was able to share this opportunity with her network.
+Going on with the theme of using your network. We also reached out to other female-identifying leaders in the tech community. We connected with Stephanie Su, who started Superposition. Superposition is the Bay Area's largest hackathon for underrepresented genders. Stephanie was able to share this opportunity with her network.
 
 ## More Resources
 
