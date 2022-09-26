@@ -1,18 +1,12 @@
-[![Assemble ~ 5th August to 7th August](https://user-images.githubusercontent.com/39828164/184644927-e0c0baef-e299-4e91-9136-784090a1e098.png)](https://assemble.hackclub.com/launch)
+[![Assemble ~ 5th August to 7th August](https://user-images.githubusercontent.com/39828164/184644927-e0c0baef-e299-4e91-9136-784090a1e098.png)](https://www.youtube.com/watch?v=PnK4gzO6S3Q)
 
-[✨ The Philosophy](#-the-philosophy) | [📆 The Event](#-the-event) | [🫂 The Attendees](#-the-attendees) | [💸 The Budget](#-the-budget) | [📌 The Venue](#-the-venue) | [📚 Further Reading](#-further-reading)
+[🎬 The Mini-Documentary](https://www.youtube.com/watch?v=PnK4gzO6S3Q) ~ [✨ The Philosophy](#-the-philosophy) ~ [📆 The Event](#-the-event) ~ [🫂 The Attendees](#-the-attendees) ~ [💸 The Budget](#-the-budget) ~ [📌 The Venue](#-the-venue) ~ [📚 Further Reading](#-further-reading)
 
 ---
 
-<!---
-
-> Hey! Thanks for checking out `hackclub/assemble` :grin:. This repository is a work-in-progress as we wrap up our work on Assemble. As we develop the repository, we'd love your support through [issues](https://github.com/hackclub/assemble/issues) & [pull requests](https://github.com/hackclub/assemble/pulls). Specifically, we'd love to hear from high schoolers about what information you'd like to see included in the repository!
-
---->
-
 Many Hack Clubbers in 2022 had heard about great IRL hackathons, but very few had been to one. They vanished when the pandemic hit, and went missing as the world emerged from the pandemic. Our 2022 summer project was to kick off a hackathon renaissance, together with Hack Clubbers.
 
-To do this, we hosted the first [high-school hackathon](https://twitter.com/hackclub/status/1556433548361338881) in San Francisco since 2020, [open sourced](https://github.com/hackclub/assemble) the entire event & [launched a series of supports](https://hackclub.com/hackathons/) for high school hackathon organisers based on our experience.
+To do this, we hosted the first [high-school hackathon](https://www.youtube.com/watch?v=PnK4gzO6S3Q) in San Francisco since 2020, [open sourced](https://github.com/hackclub/assemble) the entire event & [launched a series of supports](https://hackclub.com/hackathons/) for high school hackathon organisers based on our experience.
 
 The goal of this repository is to be a reference for high schoolers looking to organise their own hackathon. No hackathon is the same but we hope that within this repository you can find inspiration for you own special event.
 
