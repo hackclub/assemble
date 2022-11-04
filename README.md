@@ -10,6 +10,8 @@ To do this, we hosted [the first major high-school hackathon](https://www.youtub
 
 The goal of this repository is to be a reference for high schoolers looking to organise their own hackathon. No hackathon is the same but we hope that within this repository you can find inspiration for you own special event.
 
+Looking for a condensed version? Read [an expandable guide to hackathon organizing 👀](https://expandables.hackclub.dev/organizing.html)
+
 ## ✨ The Philosophy
 
 <img width="600" alt="Hacker reverse engineering a power extender!" src="https://user-images.githubusercontent.com/39828164/189932518-93a9b110-7e29-410c-973c-ac7fd6a8eb04.png">
