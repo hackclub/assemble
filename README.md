@@ -10,7 +10,7 @@ To do this, we hosted [the first major high-school hackathon](https://www.youtub
 
 The goal of this repository is to be a reference for high schoolers looking to organise their own hackathon. No hackathon is the same but we hope that within this repository you can find inspiration for you own special event.
 
-Looking for a condensed version? Read [an expandable guide to hackathon organizing 👀](https://expandables.hackclub.dev/organizing.html)
+Looking for a how-to? Read [An Expandable Guide to Hackathon Organizing](https://expandables.hackclub.dev/organizing.html).
 
 ## ✨ The Philosophy
 
