@@ -8,4 +8,4 @@ For teenagers, money is tough. The banking system is a convoluted mess and getti
 - Send emails to our attendees using HCB's instance of [Sendy](https://sendy.co).
 - Generate [legal waivers for attendees](/further-reading/waiver.pdf).
 
-Without Bank, money would have been a massive pain in the neck for our team. It truly is a godsend.
+Without HCB, money would have been a massive pain in the neck for our team. It truly is a godsend.
