@@ -4,7 +4,7 @@ For teenagers, money is tough. The banking system is a convoluted mess and getti
 
 - Issue debit cards (both virtual & physical) to each member of our team. We used these debit cards to spend money!
 - Send ACH transfers. We used these to reimburse attendees with [a travel stipend](/the-attendees/stipends) for their flights.
-- Open source our finances at [bank.hackclub.com/assemble](https://hcb.hackclub.com/assemble).
+- Open source our finances at [hcb.hackclub.com/assemble](https://hcb.hackclub.com/assemble).
 - Send emails to our attendees using HCB's instance of [Sendy](https://sendy.co).
 - Generate [legal waivers for attendees](/further-reading/waiver.pdf).
 
